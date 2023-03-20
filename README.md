@@ -1,3 +1,2 @@
 # VScode
-# Start
-# 更新紀錄
+https://github.com/adu224256/VScodePackage/tree/master
