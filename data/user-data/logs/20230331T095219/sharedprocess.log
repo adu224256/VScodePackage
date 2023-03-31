@@ -1,0 +1,90 @@
+2023-03-31 09:52:23.740 [info] visualstudioexptteam.vscodeintellicode 1.2.30 Running post uninstall script
+2023-03-31 09:52:24.294 [error] visualstudioexptteam.vscodeintellicode 1.2.30 post-uninstall node:internal/modules/cjs/loader:990
+  throw err;
+  ^
+
+Error: Cannot find module 'd:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\visualstudioexptteam.vscodeintellicode-1.2.30\dist\uninstall'
+    at Module._resolveFilename (node:internal/modules/cjs/loader:987:15)
+    at Module._load (node:internal/modules/cjs/loader:832:27)
+    at c._load (node:electron/js2c/asar_bundle:5:13343)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)
+    at node:internal/main/run_main_module:17:47 {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: []
+}
+
+2023-03-31 09:52:24.297 [error] Failed to run post uninstall script visualstudioexptteam.vscodeintellicode 1.2.30
+2023-03-31 09:52:24.300 [error] post-uninstall process exited with code 1
+2023-03-31 09:52:27.121 [info] Deleted from disk agutierrezr.vscode-essentials d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\agutierrezr.vscode-essentials-1.0.3
+2023-03-31 09:52:27.134 [info] Deleted from disk ctf0.macros d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\ctf0.macros-0.1.0
+2023-03-31 09:52:27.135 [info] Deleted from disk davidanson.vscode-markdownlint d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\davidanson.vscode-markdownlint-0.49.0
+2023-03-31 09:52:27.161 [info] Deleted from disk ecmel.vscode-html-css d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\ecmel.vscode-html-css-1.13.1
+2023-03-31 09:52:27.167 [info] Deleted from disk mishkinf.goto-next-previous-member d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\mishkinf.goto-next-previous-member-0.0.6
+2023-03-31 09:52:27.169 [info] Deleted from disk mikestead.dotenv d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\mikestead.dotenv-1.0.1
+2023-03-31 09:52:27.422 [info] Deleted from disk ryu1kn.partial-diff d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\ryu1kn.partial-diff-1.4.3
+2023-03-31 09:52:27.423 [info] Deleted from disk silvenon.mdx d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\silvenon.mdx-0.1.1
+2023-03-31 09:52:27.445 [info] Deleted from disk xabikos.javascriptsnippets d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\xabikos.javascriptsnippets-1.8.0
+2023-03-31 09:52:28.789 [info] Deleted from disk agutierrezr.emmet-keybindings d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\agutierrezr.emmet-keybindings-1.2.1
+2023-03-31 09:52:28.795 [info] Deleted from disk bbugh.change-color-format d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\bbugh.change-color-format-1.2.0
+2023-03-31 09:52:28.800 [info] Deleted from disk bodil.file-browser d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\bodil.file-browser-0.2.11
+2023-03-31 09:52:28.800 [info] Deleted from disk casperstorm.directory-files d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\casperstorm.directory-files-0.0.5
+2023-03-31 09:52:28.802 [info] Deleted from disk britesnow.vscode-toggle-quotes d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\britesnow.vscode-toggle-quotes-0.3.6
+2023-03-31 09:52:28.815 [info] Deleted from disk dionmunk.vscode-notes d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\dionmunk.vscode-notes-1.1.0
+2023-03-31 09:52:28.838 [info] Deleted from disk formulahendry.auto-close-tag d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\formulahendry.auto-close-tag-0.5.14
+2023-03-31 09:52:28.852 [info] Deleted from disk esbenp.prettier-vscode d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\esbenp.prettier-vscode-9.10.4
+2023-03-31 09:52:28.854 [info] Deleted from disk graphql.vscode-graphql d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\graphql.vscode-graphql-0.8.7
+2023-03-31 09:52:28.864 [info] Deleted from disk mgmcdermott.vscode-language-babel d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\mgmcdermott.vscode-language-babel-0.0.38
+2023-03-31 09:52:28.867 [info] Deleted from disk micnil.vscode-checkpoints d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\micnil.vscode-checkpoints-1.3.3
+2023-03-31 09:52:28.983 [info] Deleted from disk rebornix.toggle d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\rebornix.toggle-0.0.2
+2023-03-31 09:52:28.984 [info] Deleted from disk redhat.vscode-yaml d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\redhat.vscode-yaml-1.12.2
+2023-03-31 09:52:29.308 [info] Deleted from disk sburg.vscode-javascript-booster d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\sburg.vscode-javascript-booster-14.0.1
+2023-03-31 09:52:29.309 [info] Deleted from disk tyriar.sort-lines d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\tyriar.sort-lines-1.9.1
+2023-03-31 09:52:29.309 [info] Deleted from disk usernamehw.errorlens d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\usernamehw.errorlens-3.8.0
+2023-03-31 09:52:29.313 [info] Deleted from disk vsls-contrib.gistfs d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\vsls-contrib.gistfs-0.4.1
+2023-03-31 09:52:29.316 [info] Deleted from disk yatki.vscode-surround d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\yatki.vscode-surround-1.5.0
+2023-03-31 09:52:30.165 [info] Deleted from disk aaron-bond.better-comments d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\aaron-bond.better-comments-3.0.2
+2023-03-31 09:52:30.166 [info] Deleted from disk albert.tabout d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\albert.tabout-0.2.2
+2023-03-31 09:52:30.173 [info] Deleted from disk christian-kohler.npm-intellisense d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\christian-kohler.npm-intellisense-1.4.4
+2023-03-31 09:52:30.176 [info] Deleted from disk christian-kohler.path-intellisense d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\christian-kohler.path-intellisense-2.8.4
+2023-03-31 09:52:30.176 [info] Deleted from disk donjayamanne.githistory d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\donjayamanne.githistory-0.6.20
+2023-03-31 09:52:30.177 [info] Deleted from disk formulahendry.auto-rename-tag d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\formulahendry.auto-rename-tag-0.1.10
+2023-03-31 09:52:30.177 [info] Deleted from disk eamodio.gitlens d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\eamodio.gitlens-13.4.0
+2023-03-31 09:52:30.179 [info] Deleted from disk inu1255.easy-snippet d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\inu1255.easy-snippet-0.6.3
+2023-03-31 09:52:30.179 [info] Deleted from disk jasonlhy.hungry-delete d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\jasonlhy.hungry-delete-1.7.0
+2023-03-31 09:52:30.196 [info] Deleted from disk richie5um2.vscode-sort-json d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\richie5um2.vscode-sort-json-1.20.0
+2023-03-31 09:52:30.223 [info] Deleted from disk sibiraj-s.vscode-scss-formatter d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\sibiraj-s.vscode-scss-formatter-2.4.5
+2023-03-31 09:52:30.232 [info] Deleted from disk wmaurer.vscode-jumpy d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\wmaurer.vscode-jumpy-0.3.1
+2023-03-31 09:52:30.235 [info] Deleted from disk wmaurer.change-case d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\wmaurer.change-case-1.0.0
+2023-03-31 09:52:30.764 [info] Deleted from disk editorconfig.editorconfig d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\editorconfig.editorconfig-0.16.4
+2023-03-31 09:52:30.765 [info] Deleted from disk exodiusstudios.comment-anchors d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\exodiusstudios.comment-anchors-1.10.3
+2023-03-31 09:52:30.769 [info] Deleted from disk mrmlnc.vscode-duplicate d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\mrmlnc.vscode-duplicate-1.2.1
+2023-03-31 09:52:30.779 [info] Deleted from disk ms-edgedevtools.vscode-edge-devtools d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\ms-edgedevtools.vscode-edge-devtools-2.1.1
+2023-03-31 09:52:30.780 [info] Deleted from disk nidu.copy-json-path d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\nidu.copy-json-path-0.3.0
+2023-03-31 09:52:30.846 [info] Deleted from disk yzhang.markdown-all-in-one d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\yzhang.markdown-all-in-one-3.5.1
+2023-03-31 09:52:31.303 [info] Deleted from disk cipchk.cssrem d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\cipchk.cssrem-3.1.0
+2023-03-31 09:52:31.304 [info] Deleted from disk formulahendry.code-runner d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\formulahendry.code-runner-0.12.0
+2023-03-31 09:52:31.305 [info] Deleted from disk eg2.vscode-npm-script d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\eg2.vscode-npm-script-0.3.29
+2023-03-31 09:52:32.452 [info] Deleted from disk mrmlnc.vscode-scss d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\mrmlnc.vscode-scss-0.10.0
+2023-03-31 09:52:32.455 [info] Deleted from disk visualstudioexptteam.intellicode-api-usage-examples d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\visualstudioexptteam.intellicode-api-usage-examples-0.2.7
+2023-03-31 09:52:32.487 [info] Deleted from disk anteprimorac.html-end-tag-labels d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\anteprimorac.html-end-tag-labels-0.11.0
+2023-03-31 09:52:32.494 [info] Deleted from disk visualstudioexptteam.vscodeintellicode d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\visualstudioexptteam.vscodeintellicode-1.2.30
+2023-03-31 09:52:32.499 [info] Deleted from disk ritwickdey.liveserver d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\ritwickdey.liveserver-5.7.9
+2023-03-31 09:52:32.501 [info] Deleted from disk rubbersheep.gi d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\rubbersheep.gi-0.2.11
+2023-03-31 09:52:32.507 [info] Deleted from disk deerawan.vscode-faker d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\deerawan.vscode-faker-2.0.0
+2023-03-31 09:52:32.522 [info] Deleted from disk ms-vsliveshare.vsliveshare d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\ms-vsliveshare.vsliveshare-1.0.5834
+2023-03-31 09:52:32.681 [info] WSL is not installed, so could not detect WSL profiles
+2023-03-31 09:52:46.198 [info] Uninstalling extension from the profile: graphql.vscode-graphql-syntax@1.1.0 vscode-userdata:/d%3A/Downloads/VSCode-win32-ia32-1.77.0/data/extensions/extensions.json
+2023-03-31 09:52:46.234 [info] Marked extension as uninstalled graphql.vscode-graphql-syntax-1.1.0
+2023-03-31 09:52:46.485 [info] Successfully uninstalled extension from the profile graphql.vscode-graphql-syntax@1.1.0 vscode-userdata:/d%3A/Downloads/VSCode-win32-ia32-1.77.0/data/extensions/extensions.json
+2023-03-31 09:52:50.386 [info] Uninstalling extension from the profile: bretdoyle.javascript-extensions-pack---js-essentials@0.0.2 vscode-userdata:/d%3A/Downloads/VSCode-win32-ia32-1.77.0/data/extensions/extensions.json
+2023-03-31 09:52:50.399 [info] Uninstalling extension from the profile: dbaeumer.vscode-eslint@2.4.0 vscode-userdata:/d%3A/Downloads/VSCode-win32-ia32-1.77.0/data/extensions/extensions.json
+2023-03-31 09:52:50.400 [info] Uninstalling extension from the profile: tabnine.tabnine-vscode@3.6.43 vscode-userdata:/d%3A/Downloads/VSCode-win32-ia32-1.77.0/data/extensions/extensions.json
+2023-03-31 09:52:50.400 [info] Uninstalling extension from the profile: wallabyjs.quokka-vscode@1.0.529 vscode-userdata:/d%3A/Downloads/VSCode-win32-ia32-1.77.0/data/extensions/extensions.json
+2023-03-31 09:52:50.417 [info] Marked extension as uninstalled bretdoyle.javascript-extensions-pack---js-essentials-0.0.2
+2023-03-31 09:52:50.444 [info] Marked extension as uninstalled dbaeumer.vscode-eslint-2.4.0
+2023-03-31 09:52:50.464 [info] Marked extension as uninstalled tabnine.tabnine-vscode-3.6.43
+2023-03-31 09:52:50.487 [info] Marked extension as uninstalled wallabyjs.quokka-vscode-1.0.529
+2023-03-31 09:52:50.609 [info] Successfully uninstalled extension from the profile bretdoyle.javascript-extensions-pack---js-essentials@0.0.2 vscode-userdata:/d%3A/Downloads/VSCode-win32-ia32-1.77.0/data/extensions/extensions.json
+2023-03-31 09:52:50.764 [info] Successfully uninstalled extension from the profile dbaeumer.vscode-eslint@2.4.0 vscode-userdata:/d%3A/Downloads/VSCode-win32-ia32-1.77.0/data/extensions/extensions.json
+2023-03-31 09:52:50.771 [info] Successfully uninstalled extension from the profile tabnine.tabnine-vscode@3.6.43 vscode-userdata:/d%3A/Downloads/VSCode-win32-ia32-1.77.0/data/extensions/extensions.json
+2023-03-31 09:52:50.772 [info] Successfully uninstalled extension from the profile wallabyjs.quokka-vscode@1.0.529 vscode-userdata:/d%3A/Downloads/VSCode-win32-ia32-1.77.0/data/extensions/extensions.json

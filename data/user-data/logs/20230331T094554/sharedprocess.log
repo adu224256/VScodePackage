@@ -1,0 +1,608 @@
+2023-03-31 09:45:59.963 [info] WSL is not installed, so could not detect WSL profiles
+2023-03-31 09:48:11.964 [info] Getting Manifest... bretdoyle.javascript-extensions-pack---js-essentials
+2023-03-31 09:48:11.977 [info] Installing extension: bretdoyle.javascript-extensions-pack---js-essentials
+2023-03-31 09:48:12.409 [info] Getting Manifest... ritwickdey.liveserver
+2023-03-31 09:48:12.426 [info] Getting Manifest... esbenp.prettier-vscode
+2023-03-31 09:48:12.650 [info] Getting Manifest... dbaeumer.vscode-eslint
+2023-03-31 09:48:12.678 [info] Getting Manifest... tabnine.tabnine-vscode
+2023-03-31 09:48:12.697 [info] Getting Manifest... wallabyjs.quokka-vscode
+2023-03-31 09:48:12.860 [info] Installing extension: ritwickdey.liveserver bretdoyle.javascript-extensions-pack---js-essentials
+2023-03-31 09:48:12.861 [info] Installing extension: esbenp.prettier-vscode bretdoyle.javascript-extensions-pack---js-essentials
+2023-03-31 09:48:12.861 [info] Installing extension: dbaeumer.vscode-eslint bretdoyle.javascript-extensions-pack---js-essentials
+2023-03-31 09:48:12.861 [info] Installing extension: tabnine.tabnine-vscode bretdoyle.javascript-extensions-pack---js-essentials
+2023-03-31 09:48:12.861 [info] Installing extension: wallabyjs.quokka-vscode bretdoyle.javascript-extensions-pack---js-essentials
+2023-03-31 09:48:16.179 [info] Extension signature is verified: dbaeumer.vscode-eslint
+2023-03-31 09:48:16.203 [info] Extension signature is verified: tabnine.tabnine-vscode
+2023-03-31 09:48:16.278 [info] Extracted extension to d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\.a7c7ae2f-4723-4831-8dc4-b3e0ad3c68da: tabnine.tabnine-vscode
+2023-03-31 09:48:16.297 [info] Renamed to d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\tabnine.tabnine-vscode-3.6.43
+2023-03-31 09:48:16.313 [info] Extracting extension completed. tabnine.tabnine-vscode
+2023-03-31 09:48:16.341 [info] Extracted extension to d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\.1bbaa173-2990-4c47-a957-63ebd569e9e4: dbaeumer.vscode-eslint
+2023-03-31 09:48:16.359 [info] Renamed to d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\dbaeumer.vscode-eslint-2.4.0
+2023-03-31 09:48:16.374 [info] Extracting extension completed. dbaeumer.vscode-eslint
+2023-03-31 09:48:16.956 [info] Extension signature is verified: esbenp.prettier-vscode
+2023-03-31 09:48:17.235 [info] Extracted extension to d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\.102948cd-685b-4081-8b07-bccb4a2f8b69: esbenp.prettier-vscode
+2023-03-31 09:48:17.267 [info] Renamed to d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\esbenp.prettier-vscode-9.10.4
+2023-03-31 09:48:17.301 [info] Extracting extension completed. esbenp.prettier-vscode
+2023-03-31 09:48:18.841 [info] Extension signature is verified: ritwickdey.liveserver
+2023-03-31 09:48:22.092 [info] Extension signature is verified: wallabyjs.quokka-vscode
+2023-03-31 09:48:29.921 [info] Extracted extension to d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\.d5c76af8-6a36-4aeb-96cc-a49bf7c82625: ritwickdey.liveserver
+2023-03-31 09:48:29.956 [info] Renamed to d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\ritwickdey.liveserver-5.7.9
+2023-03-31 09:48:29.971 [info] Extracting extension completed. ritwickdey.liveserver
+2023-03-31 09:48:30.304 [info] Extracted extension to d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\.868957b5-7315-41fe-81fb-f95839b00316: wallabyjs.quokka-vscode
+2023-03-31 09:48:30.328 [info] Renamed to d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\wallabyjs.quokka-vscode-1.0.529
+2023-03-31 09:48:30.343 [info] Extracting extension completed. wallabyjs.quokka-vscode
+2023-03-31 09:48:32.728 [info] Extension signature is verified: bretdoyle.javascript-extensions-pack---js-essentials
+2023-03-31 09:48:32.838 [info] Extracted extension to d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\.3b5e5543-48e3-4b5e-931b-d76832e15bef: bretdoyle.javascript-extensions-pack---js-essentials
+2023-03-31 09:48:32.858 [info] Renamed to d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\bretdoyle.javascript-extensions-pack---js-essentials-0.0.2
+2023-03-31 09:48:32.872 [info] Extracting extension completed. bretdoyle.javascript-extensions-pack---js-essentials
+2023-03-31 09:48:32.893 [info] Extension installed successfully: tabnine.tabnine-vscode
+2023-03-31 09:48:32.893 [info] Extension installed successfully: dbaeumer.vscode-eslint
+2023-03-31 09:48:32.894 [info] Extension installed successfully: esbenp.prettier-vscode
+2023-03-31 09:48:32.894 [info] Extension installed successfully: ritwickdey.liveserver
+2023-03-31 09:48:32.894 [info] Extension installed successfully: wallabyjs.quokka-vscode
+2023-03-31 09:48:32.895 [info] Extension installed successfully: bretdoyle.javascript-extensions-pack---js-essentials
+2023-03-31 09:48:50.402 [info] Getting Manifest... agutierrezr.vscode-essentials
+2023-03-31 09:48:50.408 [info] Installing extension: agutierrezr.vscode-essentials
+2023-03-31 09:48:51.191 [info] Getting Manifest... ritwickdey.liveserver
+2023-03-31 09:48:51.204 [info] Getting Manifest... esbenp.prettier-vscode
+2023-03-31 09:48:51.409 [info] Getting Manifest... visualstudioexptteam.vscodeintellicode
+2023-03-31 09:48:51.628 [info] Getting Manifest... visualstudioexptteam.intellicode-api-usage-examples
+2023-03-31 09:48:51.648 [info] Getting Manifest... eamodio.gitlens
+2023-03-31 09:48:51.687 [info] Getting Manifest... formulahendry.code-runner
+2023-03-31 09:48:51.704 [info] Getting Manifest... ecmel.vscode-html-css
+2023-03-31 09:48:51.723 [info] Getting Manifest... formulahendry.auto-rename-tag
+2023-03-31 09:48:51.740 [info] Getting Manifest... ms-vsliveshare.vsliveshare
+2023-03-31 09:48:51.762 [info] Getting Manifest... xabikos.javascriptsnippets
+2023-03-31 09:48:51.767 [info] Getting Manifest... redhat.vscode-yaml
+2023-03-31 09:48:51.788 [info] Getting Manifest... formulahendry.auto-close-tag
+2023-03-31 09:48:51.808 [info] Getting Manifest... christian-kohler.path-intellisense
+2023-03-31 09:48:51.826 [info] Getting Manifest... donjayamanne.githistory
+2023-03-31 09:48:51.847 [info] Getting Manifest... editorconfig.editorconfig
+2023-03-31 09:48:51.865 [info] Getting Manifest... eg2.vscode-npm-script
+2023-03-31 09:48:51.884 [info] Getting Manifest... yzhang.markdown-all-in-one
+2023-03-31 09:48:51.903 [info] Getting Manifest... christian-kohler.npm-intellisense
+2023-03-31 09:48:51.927 [info] Getting Manifest... davidanson.vscode-markdownlint
+2023-03-31 09:48:51.950 [info] Getting Manifest... aaron-bond.better-comments
+2023-03-31 09:48:51.974 [info] Getting Manifest... mikestead.dotenv
+2023-03-31 09:48:51.992 [info] Getting Manifest... mgmcdermott.vscode-language-babel
+2023-03-31 09:48:52.009 [info] Getting Manifest... usernamehw.errorlens
+2023-03-31 09:48:52.031 [info] Getting Manifest... ms-edgedevtools.vscode-edge-devtools
+2023-03-31 09:48:52.050 [info] Getting Manifest... graphql.vscode-graphql
+2023-03-31 09:48:52.262 [info] Getting Manifest... graphql.vscode-graphql-syntax
+2023-03-31 09:48:52.295 [info] Getting Manifest... sibiraj-s.vscode-scss-formatter
+2023-03-31 09:48:52.319 [info] Getting Manifest... mrmlnc.vscode-scss
+2023-03-31 09:48:52.352 [info] Getting Manifest... wmaurer.change-case
+2023-03-31 09:48:52.380 [info] Getting Manifest... ryu1kn.partial-diff
+2023-03-31 09:48:52.397 [info] Getting Manifest... tyriar.sort-lines
+2023-03-31 09:48:52.416 [info] Getting Manifest... silvenon.mdx
+2023-03-31 09:48:52.432 [info] Getting Manifest... cipchk.cssrem
+2023-03-31 09:48:52.449 [info] Getting Manifest... wmaurer.vscode-jumpy
+2023-03-31 09:48:52.466 [info] Getting Manifest... sburg.vscode-javascript-booster
+2023-03-31 09:48:52.485 [info] Getting Manifest... albert.tabout
+2023-03-31 09:48:52.510 [info] Getting Manifest... richie5um2.vscode-sort-json
+2023-03-31 09:48:52.555 [info] Getting Manifest... deerawan.vscode-faker
+2023-03-31 09:48:52.626 [info] Getting Manifest... mrmlnc.vscode-duplicate
+2023-03-31 09:48:52.649 [info] Getting Manifest... vsls-contrib.gistfs
+2023-03-31 09:48:52.667 [info] Getting Manifest... anteprimorac.html-end-tag-labels
+2023-03-31 09:48:52.684 [info] Getting Manifest... yatki.vscode-surround
+2023-03-31 09:48:52.702 [info] Getting Manifest... britesnow.vscode-toggle-quotes
+2023-03-31 09:48:52.722 [info] Getting Manifest... exodiusstudios.comment-anchors
+2023-03-31 09:48:52.744 [info] Getting Manifest... micnil.vscode-checkpoints
+2023-03-31 09:48:52.762 [info] Getting Manifest... jasonlhy.hungry-delete
+2023-03-31 09:48:52.780 [info] Getting Manifest... rubbersheep.gi
+2023-03-31 09:48:52.805 [info] Getting Manifest... inu1255.easy-snippet
+2023-03-31 09:48:52.827 [info] Getting Manifest... ctf0.macros
+2023-03-31 09:48:52.851 [info] Getting Manifest... agutierrezr.emmet-keybindings
+2023-03-31 09:48:52.879 [info] Getting Manifest... dionmunk.vscode-notes
+2023-03-31 09:48:52.896 [info] Getting Manifest... bodil.file-browser
+2023-03-31 09:48:52.930 [info] Getting Manifest... mishkinf.goto-next-previous-member
+2023-03-31 09:48:52.949 [info] Getting Manifest... nidu.copy-json-path
+2023-03-31 09:48:52.998 [info] Getting Manifest... rebornix.toggle
+2023-03-31 09:48:53.015 [info] Getting Manifest... bbugh.change-color-format
+2023-03-31 09:48:53.032 [info] Getting Manifest... casperstorm.directory-files
+2023-03-31 09:48:53.366 [info] Installing extension: visualstudioexptteam.vscodeintellicode agutierrezr.vscode-essentials
+2023-03-31 09:48:53.366 [info] Installing extension: visualstudioexptteam.intellicode-api-usage-examples agutierrezr.vscode-essentials
+2023-03-31 09:48:53.366 [info] Installing extension: eamodio.gitlens agutierrezr.vscode-essentials
+2023-03-31 09:48:53.367 [info] Installing extension: formulahendry.code-runner agutierrezr.vscode-essentials
+2023-03-31 09:48:53.367 [info] Installing extension: ecmel.vscode-html-css agutierrezr.vscode-essentials
+2023-03-31 09:48:53.367 [info] Installing extension: formulahendry.auto-rename-tag agutierrezr.vscode-essentials
+2023-03-31 09:48:53.368 [info] Installing extension: ms-vsliveshare.vsliveshare agutierrezr.vscode-essentials
+2023-03-31 09:48:53.368 [info] Installing extension: xabikos.javascriptsnippets agutierrezr.vscode-essentials
+2023-03-31 09:48:53.368 [info] Installing extension: redhat.vscode-yaml agutierrezr.vscode-essentials
+2023-03-31 09:48:53.369 [info] Installing extension: formulahendry.auto-close-tag agutierrezr.vscode-essentials
+2023-03-31 09:48:53.369 [info] Installing extension: christian-kohler.path-intellisense agutierrezr.vscode-essentials
+2023-03-31 09:48:53.369 [info] Installing extension: donjayamanne.githistory agutierrezr.vscode-essentials
+2023-03-31 09:48:53.370 [info] Installing extension: editorconfig.editorconfig agutierrezr.vscode-essentials
+2023-03-31 09:48:53.370 [info] Installing extension: eg2.vscode-npm-script agutierrezr.vscode-essentials
+2023-03-31 09:48:53.370 [info] Installing extension: yzhang.markdown-all-in-one agutierrezr.vscode-essentials
+2023-03-31 09:48:53.371 [info] Installing extension: christian-kohler.npm-intellisense agutierrezr.vscode-essentials
+2023-03-31 09:48:53.371 [info] Installing extension: davidanson.vscode-markdownlint agutierrezr.vscode-essentials
+2023-03-31 09:48:53.373 [info] Installing extension: aaron-bond.better-comments agutierrezr.vscode-essentials
+2023-03-31 09:48:53.373 [info] Installing extension: mikestead.dotenv agutierrezr.vscode-essentials
+2023-03-31 09:48:53.373 [info] Installing extension: mgmcdermott.vscode-language-babel agutierrezr.vscode-essentials
+2023-03-31 09:48:53.374 [info] Installing extension: usernamehw.errorlens agutierrezr.vscode-essentials
+2023-03-31 09:48:53.374 [info] Installing extension: ms-edgedevtools.vscode-edge-devtools agutierrezr.vscode-essentials
+2023-03-31 09:48:53.374 [info] Installing extension: graphql.vscode-graphql agutierrezr.vscode-essentials
+2023-03-31 09:48:53.375 [info] Installing extension: graphql.vscode-graphql-syntax agutierrezr.vscode-essentials
+2023-03-31 09:48:53.375 [info] Installing extension: sibiraj-s.vscode-scss-formatter agutierrezr.vscode-essentials
+2023-03-31 09:48:53.375 [info] Installing extension: mrmlnc.vscode-scss agutierrezr.vscode-essentials
+2023-03-31 09:48:53.376 [info] Installing extension: wmaurer.change-case agutierrezr.vscode-essentials
+2023-03-31 09:48:53.376 [info] Installing extension: ryu1kn.partial-diff agutierrezr.vscode-essentials
+2023-03-31 09:48:53.376 [info] Installing extension: tyriar.sort-lines agutierrezr.vscode-essentials
+2023-03-31 09:48:53.377 [info] Installing extension: silvenon.mdx agutierrezr.vscode-essentials
+2023-03-31 09:48:53.377 [info] Installing extension: cipchk.cssrem agutierrezr.vscode-essentials
+2023-03-31 09:48:53.377 [info] Installing extension: wmaurer.vscode-jumpy agutierrezr.vscode-essentials
+2023-03-31 09:48:53.379 [info] Installing extension: sburg.vscode-javascript-booster agutierrezr.vscode-essentials
+2023-03-31 09:48:53.379 [info] Installing extension: albert.tabout agutierrezr.vscode-essentials
+2023-03-31 09:48:53.379 [info] Installing extension: richie5um2.vscode-sort-json agutierrezr.vscode-essentials
+2023-03-31 09:48:53.380 [info] Installing extension: deerawan.vscode-faker agutierrezr.vscode-essentials
+2023-03-31 09:48:53.380 [info] Installing extension: mrmlnc.vscode-duplicate agutierrezr.vscode-essentials
+2023-03-31 09:48:53.381 [info] Installing extension: vsls-contrib.gistfs agutierrezr.vscode-essentials
+2023-03-31 09:48:53.381 [info] Installing extension: anteprimorac.html-end-tag-labels agutierrezr.vscode-essentials
+2023-03-31 09:48:53.382 [info] Installing extension: yatki.vscode-surround agutierrezr.vscode-essentials
+2023-03-31 09:48:53.382 [info] Installing extension: britesnow.vscode-toggle-quotes agutierrezr.vscode-essentials
+2023-03-31 09:48:53.383 [info] Installing extension: exodiusstudios.comment-anchors agutierrezr.vscode-essentials
+2023-03-31 09:48:53.383 [info] Installing extension: micnil.vscode-checkpoints agutierrezr.vscode-essentials
+2023-03-31 09:48:53.384 [info] Installing extension: jasonlhy.hungry-delete agutierrezr.vscode-essentials
+2023-03-31 09:48:53.385 [info] Installing extension: rubbersheep.gi agutierrezr.vscode-essentials
+2023-03-31 09:48:53.385 [info] Installing extension: inu1255.easy-snippet agutierrezr.vscode-essentials
+2023-03-31 09:48:53.386 [info] Installing extension: ctf0.macros agutierrezr.vscode-essentials
+2023-03-31 09:48:53.387 [info] Installing extension: agutierrezr.emmet-keybindings agutierrezr.vscode-essentials
+2023-03-31 09:48:53.388 [info] Installing extension: dionmunk.vscode-notes agutierrezr.vscode-essentials
+2023-03-31 09:48:53.390 [info] Installing extension: bodil.file-browser agutierrezr.vscode-essentials
+2023-03-31 09:48:53.391 [info] Installing extension: mishkinf.goto-next-previous-member agutierrezr.vscode-essentials
+2023-03-31 09:48:53.391 [info] Installing extension: nidu.copy-json-path agutierrezr.vscode-essentials
+2023-03-31 09:48:53.391 [info] Installing extension: rebornix.toggle agutierrezr.vscode-essentials
+2023-03-31 09:48:53.392 [info] Installing extension: bbugh.change-color-format agutierrezr.vscode-essentials
+2023-03-31 09:48:53.392 [info] Installing extension: casperstorm.directory-files agutierrezr.vscode-essentials
+2023-03-31 09:49:04.960 [info] Extension signature is verified: ecmel.vscode-html-css
+2023-03-31 09:49:05.021 [info] Extracted extension to d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\.063ad7ef-8bf1-42ce-a641-e84b0489a877: ecmel.vscode-html-css
+2023-03-31 09:49:05.048 [info] Renamed to d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\ecmel.vscode-html-css-1.13.1
+2023-03-31 09:49:05.060 [info] Extension signature is verified: xabikos.javascriptsnippets
+2023-03-31 09:49:05.073 [info] Extracting extension completed. ecmel.vscode-html-css
+2023-03-31 09:49:05.101 [info] Extracted extension to d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\.23aa4b3b-2905-42b0-bdb7-71f162f6b045: xabikos.javascriptsnippets
+2023-03-31 09:49:05.119 [info] Renamed to d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\xabikos.javascriptsnippets-1.8.0
+2023-03-31 09:49:05.136 [info] Extracting extension completed. xabikos.javascriptsnippets
+2023-03-31 09:49:05.367 [info] Extension signature is verified: visualstudioexptteam.intellicode-api-usage-examples
+2023-03-31 09:49:05.747 [info] Extension signature is verified: formulahendry.code-runner
+2023-03-31 09:49:07.374 [info] Extracted extension to d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\.cf3c3b51-52e6-4d7c-8a23-ed9cdb38e944: visualstudioexptteam.intellicode-api-usage-examples
+2023-03-31 09:49:07.401 [info] Renamed to d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\visualstudioexptteam.intellicode-api-usage-examples-0.2.7
+2023-03-31 09:49:07.577 [info] Extracting extension completed. visualstudioexptteam.intellicode-api-usage-examples
+2023-03-31 09:49:08.077 [info] Extension signature is verified: editorconfig.editorconfig
+2023-03-31 09:49:08.078 [info] Extension signature is verified: christian-kohler.path-intellisense
+2023-03-31 09:49:08.231 [info] Extracted extension to d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\.c0acacce-ea38-4a1f-90ae-8d1f9af9606b: formulahendry.code-runner
+2023-03-31 09:49:08.262 [info] Renamed to d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\formulahendry.code-runner-0.12.0
+2023-03-31 09:49:08.354 [info] Extracting extension completed. formulahendry.code-runner
+2023-03-31 09:49:08.724 [info] Extension signature is verified: aaron-bond.better-comments
+2023-03-31 09:49:08.727 [info] Extension signature is verified: eg2.vscode-npm-script
+2023-03-31 09:49:09.389 [info] Extension signature is verified: davidanson.vscode-markdownlint
+2023-03-31 09:49:09.507 [info] Extension signature is verified: formulahendry.auto-rename-tag
+2023-03-31 09:49:09.652 [info] Extension signature is verified: usernamehw.errorlens
+2023-03-31 09:49:09.758 [info] Extension signature is verified: wmaurer.change-case
+2023-03-31 09:49:10.059 [info] Extracted extension to d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\.e1e11004-ebb2-4166-9ab7-d5239d7a8b27: aaron-bond.better-comments
+2023-03-31 09:49:10.172 [info] Renamed to d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\aaron-bond.better-comments-3.0.2
+2023-03-31 09:49:10.217 [info] Extracting extension completed. aaron-bond.better-comments
+2023-03-31 09:49:10.342 [info] Extension signature is verified: mikestead.dotenv
+2023-03-31 09:49:10.344 [info] Extension signature is verified: graphql.vscode-graphql-syntax
+2023-03-31 09:49:10.353 [info] Extracted extension to d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\.a1bb80d6-7430-4ce3-b9dc-5994332b21f0: davidanson.vscode-markdownlint
+2023-03-31 09:49:10.409 [info] Extracted extension to d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\.e05c4426-1057-46dc-adf4-ace94ce7f957: editorconfig.editorconfig
+2023-03-31 09:49:10.424 [info] Extracted extension to d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\.fc45080b-9b5c-4d3a-b4ed-7759d2f4fca4: eg2.vscode-npm-script
+2023-03-31 09:49:10.433 [info] Extracted extension to d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\.21b677cc-4a53-423c-a2b7-1738062de6ef: usernamehw.errorlens
+2023-03-31 09:49:10.434 [info] Renamed to d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\davidanson.vscode-markdownlint-0.49.0
+2023-03-31 09:49:10.515 [info] Extension signature is verified: wmaurer.vscode-jumpy
+2023-03-31 09:49:10.521 [info] Renamed to d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\eg2.vscode-npm-script-0.3.29
+2023-03-31 09:49:10.523 [info] Extracting extension completed. davidanson.vscode-markdownlint
+2023-03-31 09:49:10.705 [info] Renamed to d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\editorconfig.editorconfig-0.16.4
+2023-03-31 09:49:10.861 [info] Extension signature is verified: tyriar.sort-lines
+2023-03-31 09:49:10.997 [info] Extracting extension completed. eg2.vscode-npm-script
+2023-03-31 09:49:11.091 [info] Extension signature is verified: mrmlnc.vscode-duplicate
+2023-03-31 09:49:11.101 [info] Extracting extension completed. editorconfig.editorconfig
+2023-03-31 09:49:11.231 [info] Renamed to d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\usernamehw.errorlens-3.8.0
+2023-03-31 09:49:11.489 [info] Extracting extension completed. usernamehw.errorlens
+2023-03-31 09:49:11.607 [info] Extension signature is verified: silvenon.mdx
+2023-03-31 09:49:11.758 [info] Extracted extension to d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\.49ee7574-df34-4e69-9a5e-7f8bbcdf15d9: christian-kohler.path-intellisense
+2023-03-31 09:49:11.804 [info] Extracted extension to d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\.8e62524b-5247-40b6-b5db-6f6c7e8d646b: formulahendry.auto-rename-tag
+2023-03-31 09:49:12.083 [info] Renamed to d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\formulahendry.auto-rename-tag-0.1.10
+2023-03-31 09:49:12.093 [info] Extracted extension to d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\.049fa973-c41e-4a91-9b93-8d050c38dbf0: mikestead.dotenv
+2023-03-31 09:49:12.096 [info] Renamed to d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\christian-kohler.path-intellisense-2.8.4
+2023-03-31 09:49:12.152 [info] Extracted extension to d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\.28df4393-e7c6-4782-b49e-cdfff666054e: graphql.vscode-graphql-syntax
+2023-03-31 09:49:12.169 [info] Extracting extension completed. christian-kohler.path-intellisense
+2023-03-31 09:49:12.172 [info] Extracting extension completed. formulahendry.auto-rename-tag
+2023-03-31 09:49:12.286 [info] Renamed to d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\mikestead.dotenv-1.0.1
+2023-03-31 09:49:12.309 [info] Extracted extension to d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\.ae0fdd75-2529-4147-9eea-41a11037e976: wmaurer.vscode-jumpy
+2023-03-31 09:49:12.317 [info] Renamed to d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\graphql.vscode-graphql-syntax-1.1.0
+2023-03-31 09:49:12.319 [info] Extracted extension to d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\.bc27b0f2-d13e-4021-8a77-5a9ccb31003d: silvenon.mdx
+2023-03-31 09:49:12.905 [info] Extracting extension completed. graphql.vscode-graphql-syntax
+2023-03-31 09:49:12.926 [info] Extracting extension completed. mikestead.dotenv
+2023-03-31 09:49:13.007 [info] Extension signature is verified: britesnow.vscode-toggle-quotes
+2023-03-31 09:49:13.021 [info] Renamed to d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\wmaurer.vscode-jumpy-0.3.1
+2023-03-31 09:49:13.035 [info] Extension signature is verified: ryu1kn.partial-diff
+2023-03-31 09:49:13.036 [info] Renamed to d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\silvenon.mdx-0.1.1
+2023-03-31 09:49:13.037 [info] Extension signature is verified: formulahendry.auto-close-tag
+2023-03-31 09:49:13.093 [info] Extension signature is verified: ctf0.macros
+2023-03-31 09:49:13.107 [info] Extracting extension completed. wmaurer.vscode-jumpy
+2023-03-31 09:49:13.108 [info] Extracting extension completed. silvenon.mdx
+2023-03-31 09:49:13.434 [info] Extension signature is verified: dionmunk.vscode-notes
+2023-03-31 09:49:13.454 [info] Extension signature is verified: donjayamanne.githistory
+2023-03-31 09:49:13.803 [info] Extracted extension to d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\.83b9286c-c555-491f-8f67-2cba209ef3cc: ctf0.macros
+2023-03-31 09:49:14.234 [info] Extension signature is verified: mgmcdermott.vscode-language-babel
+2023-03-31 09:49:14.244 [info] Extracted extension to d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\.b34aa209-2d5a-4e36-9720-6eb6bed1bbfd: britesnow.vscode-toggle-quotes
+2023-03-31 09:49:14.281 [info] Renamed to d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\ctf0.macros-0.1.0
+2023-03-31 09:49:14.322 [info] Renamed to d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\britesnow.vscode-toggle-quotes-0.3.6
+2023-03-31 09:49:14.350 [info] Extracting extension completed. ctf0.macros
+2023-03-31 09:49:14.428 [info] Extracting extension completed. britesnow.vscode-toggle-quotes
+2023-03-31 09:49:14.449 [info] Extension signature is verified: albert.tabout
+2023-03-31 09:49:14.709 [info] Extracted extension to d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\.f18aa05d-7a39-4478-b21c-8bee6190af43: ryu1kn.partial-diff
+2023-03-31 09:49:14.991 [info] Renamed to d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\ryu1kn.partial-diff-1.4.3
+2023-03-31 09:49:15.001 [info] Extension signature is verified: cipchk.cssrem
+2023-03-31 09:49:15.041 [info] Extracting extension completed. ryu1kn.partial-diff
+2023-03-31 09:49:15.414 [info] Extension signature is verified: bodil.file-browser
+2023-03-31 09:49:15.496 [info] Extracted extension to d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\.5f0dd481-c406-4e53-bf3e-1d907c625445: formulahendry.auto-close-tag
+2023-03-31 09:49:15.500 [info] Extension signature is verified: rebornix.toggle
+2023-03-31 09:49:15.615 [info] Extracted extension to d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\.ee04b880-6593-47bc-ac80-5027da9acc28: dionmunk.vscode-notes
+2023-03-31 09:49:15.703 [info] Renamed to d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\formulahendry.auto-close-tag-0.5.14
+2023-03-31 09:49:15.792 [info] Renamed to d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\dionmunk.vscode-notes-1.1.0
+2023-03-31 09:49:15.794 [info] Extracting extension completed. formulahendry.auto-close-tag
+2023-03-31 09:49:15.897 [info] Extracted extension to d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\.d8372cea-1725-4901-b92c-4ef3c4518605: rebornix.toggle
+2023-03-31 09:49:15.947 [info] Extension signature is verified: yatki.vscode-surround
+2023-03-31 09:49:15.957 [info] Extracting extension completed. dionmunk.vscode-notes
+2023-03-31 09:49:16.024 [info] Renamed to d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\rebornix.toggle-0.0.2
+2023-03-31 09:49:16.105 [info] Extension signature is verified: casperstorm.directory-files
+2023-03-31 09:49:16.105 [info] Extension signature is verified: yzhang.markdown-all-in-one
+2023-03-31 09:49:16.189 [info] Extracting extension completed. rebornix.toggle
+2023-03-31 09:49:16.406 [info] Extracted extension to d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\.ee224684-05c2-4acb-aa59-8547e6564a20: wmaurer.change-case
+2023-03-31 09:49:16.467 [info] Renamed to d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\wmaurer.change-case-1.0.0
+2023-03-31 09:49:16.517 [info] Extension signature is verified: nidu.copy-json-path
+2023-03-31 09:49:16.524 [info] Extracting extension completed. wmaurer.change-case
+2023-03-31 09:49:16.535 [info] Extracted extension to d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\.f300e857-8b0a-42f9-9945-3fa52432047a: bodil.file-browser
+2023-03-31 09:49:16.657 [info] Renamed to d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\bodil.file-browser-0.2.11
+2023-03-31 09:49:16.703 [info] Extracting extension completed. bodil.file-browser
+2023-03-31 09:49:16.722 [info] Extracted extension to d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\.eb65a1af-f6be-46a9-a9d2-ec5629e6f4ad: mgmcdermott.vscode-language-babel
+2023-03-31 09:49:16.742 [info] Extension signature is verified: bbugh.change-color-format
+2023-03-31 09:49:16.753 [info] Extracted extension to d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\.081dba70-9e3d-43f8-ba70-ad21e11dd5c6: albert.tabout
+2023-03-31 09:49:16.778 [info] Renamed to d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\mgmcdermott.vscode-language-babel-0.0.38
+2023-03-31 09:49:16.931 [info] Extracting extension completed. mgmcdermott.vscode-language-babel
+2023-03-31 09:49:16.934 [info] Extracted extension to d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\.91918ed2-03b3-4a7b-a21b-685123e4ee01: yatki.vscode-surround
+2023-03-31 09:49:16.953 [info] Renamed to d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\albert.tabout-0.2.2
+2023-03-31 09:49:17.007 [info] Extracted extension to d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\.aa08dfd8-e18b-412e-be9b-4742bf0ca1f7: tyriar.sort-lines
+2023-03-31 09:49:17.025 [info] Extracting extension completed. albert.tabout
+2023-03-31 09:49:17.055 [info] Extracted extension to d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\.a155bc51-924a-4f9c-928c-d3dc24829a93: casperstorm.directory-files
+2023-03-31 09:49:17.062 [info] Renamed to d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\yatki.vscode-surround-1.5.0
+2023-03-31 09:49:17.186 [info] Extracting extension completed. yatki.vscode-surround
+2023-03-31 09:49:17.269 [info] Renamed to d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\tyriar.sort-lines-1.9.1
+2023-03-31 09:49:17.280 [info] Renamed to d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\casperstorm.directory-files-0.0.5
+2023-03-31 09:49:17.358 [info] Extracting extension completed. tyriar.sort-lines
+2023-03-31 09:49:17.360 [info] Extracting extension completed. casperstorm.directory-files
+2023-03-31 09:49:17.774 [info] Extracted extension to d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\.92ae8c63-2ea3-437d-9c01-a78d37a69c55: donjayamanne.githistory
+2023-03-31 09:49:17.778 [info] Extension signature is verified: vsls-contrib.gistfs
+2023-03-31 09:49:17.914 [info] Extension signature is verified: christian-kohler.npm-intellisense
+2023-03-31 09:49:17.960 [info] Renamed to d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\donjayamanne.githistory-0.6.20
+2023-03-31 09:49:18.041 [info] Extracting extension completed. donjayamanne.githistory
+2023-03-31 09:49:18.099 [info] Extension signature is verified: redhat.vscode-yaml
+2023-03-31 09:49:18.146 [info] Extracted extension to d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\.d81ebad9-5fbe-40eb-841a-478321d4c00b: mrmlnc.vscode-duplicate
+2023-03-31 09:49:18.224 [info] Extracted extension to d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\.c659a83b-e9ad-4b31-889e-fdd49b40ffb3: nidu.copy-json-path
+2023-03-31 09:49:18.227 [info] Renamed to d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\mrmlnc.vscode-duplicate-1.2.1
+2023-03-31 09:49:18.261 [info] Renamed to d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\nidu.copy-json-path-0.3.0
+2023-03-31 09:49:18.265 [info] Extracting extension completed. mrmlnc.vscode-duplicate
+2023-03-31 09:49:18.301 [info] Extracting extension completed. nidu.copy-json-path
+2023-03-31 09:49:18.372 [info] Extracted extension to d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\.565420a2-c53c-428b-9992-dddc3a41c2dc: cipchk.cssrem
+2023-03-31 09:49:18.383 [info] Extracted extension to d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\.316125e5-4cfd-4f9f-834d-b03eeeef1add: yzhang.markdown-all-in-one
+2023-03-31 09:49:18.439 [info] Extracted extension to d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\.870e8460-532a-4b7d-b4cc-196746112f39: bbugh.change-color-format
+2023-03-31 09:49:18.482 [info] Renamed to d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\yzhang.markdown-all-in-one-3.5.1
+2023-03-31 09:49:18.483 [info] Renamed to d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\cipchk.cssrem-3.1.0
+2023-03-31 09:49:18.504 [info] Renamed to d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\bbugh.change-color-format-1.2.0
+2023-03-31 09:49:18.551 [info] Extracting extension completed. yzhang.markdown-all-in-one
+2023-03-31 09:49:18.575 [info] Extracting extension completed. cipchk.cssrem
+2023-03-31 09:49:18.594 [info] Extracting extension completed. bbugh.change-color-format
+2023-03-31 09:49:18.625 [info] Extension signature is verified: richie5um2.vscode-sort-json
+2023-03-31 09:49:18.869 [info] Extracted extension to d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\.79aae27a-19b9-4758-b9ed-b061a11a1c10: christian-kohler.npm-intellisense
+2023-03-31 09:49:18.914 [info] Extension signature is verified: mrmlnc.vscode-scss
+2023-03-31 09:49:18.915 [info] Extension signature is verified: ms-edgedevtools.vscode-edge-devtools
+2023-03-31 09:49:18.916 [info] Extension signature is verified: anteprimorac.html-end-tag-labels
+2023-03-31 09:49:18.946 [info] Renamed to d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\christian-kohler.npm-intellisense-1.4.4
+2023-03-31 09:49:19.002 [info] Extracting extension completed. christian-kohler.npm-intellisense
+2023-03-31 09:49:19.224 [info] Extension signature is verified: exodiusstudios.comment-anchors
+2023-03-31 09:49:19.316 [info] Extracted extension to d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\.c12e928e-f59a-443c-8bfb-a8b5f96ab9e5: redhat.vscode-yaml
+2023-03-31 09:49:19.361 [info] Renamed to d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\redhat.vscode-yaml-1.12.2
+2023-03-31 09:49:19.372 [info] Extracted extension to d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\.5b6bf570-1096-4782-a9ec-1988720e6c9b: vsls-contrib.gistfs
+2023-03-31 09:49:19.397 [info] Extracting extension completed. redhat.vscode-yaml
+2023-03-31 09:49:19.429 [info] Renamed to d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\vsls-contrib.gistfs-0.4.1
+2023-03-31 09:49:19.463 [info] Extracting extension completed. vsls-contrib.gistfs
+2023-03-31 09:49:20.077 [info] Extracted extension to d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\.bd625255-886f-46b4-b7ba-a0e10f88c8e1: ms-edgedevtools.vscode-edge-devtools
+2023-03-31 09:49:20.127 [info] Renamed to d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\ms-edgedevtools.vscode-edge-devtools-2.1.1
+2023-03-31 09:49:20.163 [info] Extracting extension completed. ms-edgedevtools.vscode-edge-devtools
+2023-03-31 09:49:20.437 [info] Extracted extension to d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\.d1889cef-f7c7-4658-82f0-78ecc205703a: exodiusstudios.comment-anchors
+2023-03-31 09:49:20.472 [info] Renamed to d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\exodiusstudios.comment-anchors-1.10.3
+2023-03-31 09:49:20.495 [info] Extracting extension completed. exodiusstudios.comment-anchors
+2023-03-31 09:49:20.766 [info] Extension signature is verified: micnil.vscode-checkpoints
+2023-03-31 09:49:21.034 [info] Extracted extension to d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\.bc4f001a-7176-4b0a-8215-8d88b9904445: micnil.vscode-checkpoints
+2023-03-31 09:49:21.066 [info] Renamed to d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\micnil.vscode-checkpoints-1.3.3
+2023-03-31 09:49:21.108 [info] Extracting extension completed. micnil.vscode-checkpoints
+2023-03-31 09:49:21.349 [info] Extension signature is verified: mishkinf.goto-next-previous-member
+2023-03-31 09:49:21.354 [info] Extension signature is verified: agutierrezr.emmet-keybindings
+2023-03-31 09:49:21.379 [info] Extension signature is verified: sburg.vscode-javascript-booster
+2023-03-31 09:49:21.598 [info] Extracted extension to d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\.c2e9d1cd-131e-42d0-a226-d8dd3831968a: mishkinf.goto-next-previous-member
+2023-03-31 09:49:21.626 [info] Renamed to d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\mishkinf.goto-next-previous-member-0.0.6
+2023-03-31 09:49:21.647 [info] Extracting extension completed. mishkinf.goto-next-previous-member
+2023-03-31 09:49:21.679 [info] Extracted extension to d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\.c6f41c38-37d7-49a0-a4a0-4e6b97fcd295: agutierrezr.emmet-keybindings
+2023-03-31 09:49:21.716 [info] Renamed to d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\agutierrezr.emmet-keybindings-1.2.1
+2023-03-31 09:49:21.735 [info] Extracting extension completed. agutierrezr.emmet-keybindings
+2023-03-31 09:49:22.156 [info] Extracted extension to d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\.60e39457-57c7-41ac-8e36-370ca48c9895: sburg.vscode-javascript-booster
+2023-03-31 09:49:22.260 [info] Renamed to d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\sburg.vscode-javascript-booster-14.0.1
+2023-03-31 09:49:22.294 [info] Extracting extension completed. sburg.vscode-javascript-booster
+2023-03-31 09:49:22.659 [info] Extracted extension to d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\.c1098224-5ab4-4ce0-baed-eadc961bd2c0: anteprimorac.html-end-tag-labels
+2023-03-31 09:49:22.694 [info] Renamed to d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\anteprimorac.html-end-tag-labels-0.11.0
+2023-03-31 09:49:22.717 [info] Extracting extension completed. anteprimorac.html-end-tag-labels
+2023-03-31 09:49:23.274 [info] Extension signature is verified: sibiraj-s.vscode-scss-formatter
+2023-03-31 09:49:24.186 [info] Extracted extension to d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\.58f15669-cec7-4e55-83c6-9972914a110c: sibiraj-s.vscode-scss-formatter
+2023-03-31 09:49:24.213 [info] Renamed to d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\sibiraj-s.vscode-scss-formatter-2.4.5
+2023-03-31 09:49:24.253 [info] Extracting extension completed. sibiraj-s.vscode-scss-formatter
+2023-03-31 09:49:24.325 [info] Extension signature is verified: deerawan.vscode-faker
+2023-03-31 09:49:24.473 [info] Extension signature is verified: inu1255.easy-snippet
+2023-03-31 09:49:24.520 [info] Extension signature is verified: rubbersheep.gi
+2023-03-31 09:49:25.119 [info] Extracted extension to d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\.c845fb8c-e6f6-4c79-8031-5aadad3d4073: inu1255.easy-snippet
+2023-03-31 09:49:25.162 [info] Renamed to d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\inu1255.easy-snippet-0.6.3
+2023-03-31 09:49:25.213 [info] Extracting extension completed. inu1255.easy-snippet
+2023-03-31 09:49:25.375 [info] Extracted extension to d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\.3627379e-2a85-44c1-89aa-ecf033d6d472: mrmlnc.vscode-scss
+2023-03-31 09:49:25.416 [info] Renamed to d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\mrmlnc.vscode-scss-0.10.0
+2023-03-31 09:49:25.468 [info] Extracted extension to d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\.0fc6b5d2-ebd8-4557-bb8a-f0da593f04a7: rubbersheep.gi
+2023-03-31 09:49:25.473 [info] Extracting extension completed. mrmlnc.vscode-scss
+2023-03-31 09:49:25.609 [info] Renamed to d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\rubbersheep.gi-0.2.11
+2023-03-31 09:49:25.651 [info] Extracting extension completed. rubbersheep.gi
+2023-03-31 09:49:26.140 [info] Extension signature is verified: eamodio.gitlens
+2023-03-31 09:49:26.348 [info] Extracted extension to d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\.31a4708e-74c4-43cb-8bf1-3af6e9a428d8: richie5um2.vscode-sort-json
+2023-03-31 09:49:26.377 [info] Renamed to d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\richie5um2.vscode-sort-json-1.20.0
+2023-03-31 09:49:26.407 [info] Extracting extension completed. richie5um2.vscode-sort-json
+2023-03-31 09:49:26.970 [info] Extension signature is verified: jasonlhy.hungry-delete
+2023-03-31 09:49:27.491 [info] Extension signature is verified: ms-vsliveshare.vsliveshare
+2023-03-31 09:49:27.684 [info] Extracted extension to d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\.c2fa7f59-f8e6-490f-ab29-5c09b5b23c0b: jasonlhy.hungry-delete
+2023-03-31 09:49:27.707 [info] Renamed to d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\jasonlhy.hungry-delete-1.7.0
+2023-03-31 09:49:27.732 [info] Extracting extension completed. jasonlhy.hungry-delete
+2023-03-31 09:49:27.928 [info] Extracted extension to d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\.a67f398e-411e-4410-a4e5-deb0aacc021d: eamodio.gitlens
+2023-03-31 09:49:27.968 [info] Renamed to d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\eamodio.gitlens-13.4.0
+2023-03-31 09:49:28.006 [info] Extracting extension completed. eamodio.gitlens
+2023-03-31 09:49:32.378 [info] Extracted extension to d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\.b82e0228-3468-4947-9fd7-0c4a28d07352: ms-vsliveshare.vsliveshare
+2023-03-31 09:49:32.416 [info] Renamed to d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\ms-vsliveshare.vsliveshare-1.0.5834
+2023-03-31 09:49:32.447 [info] Extracting extension completed. ms-vsliveshare.vsliveshare
+2023-03-31 09:49:35.640 [info] Extracted extension to d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\.efc6300d-5f27-4d42-bad1-8b652b90bc48: deerawan.vscode-faker
+2023-03-31 09:49:35.679 [info] Renamed to d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\deerawan.vscode-faker-2.0.0
+2023-03-31 09:49:35.691 [info] Extracting extension completed. deerawan.vscode-faker
+2023-03-31 09:49:48.444 [info] Extension signature is verified: visualstudioexptteam.vscodeintellicode
+2023-03-31 09:49:53.779 [info] Extracted extension to d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\.84be6e9b-28cb-479d-b2ba-edbbe119e87c: visualstudioexptteam.vscodeintellicode
+2023-03-31 09:49:53.801 [info] Renamed to d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\visualstudioexptteam.vscodeintellicode-1.2.30
+2023-03-31 09:49:53.823 [info] Extracting extension completed. visualstudioexptteam.vscodeintellicode
+2023-03-31 09:49:57.041 [info] Extension signature is verified: graphql.vscode-graphql
+2023-03-31 09:49:57.464 [info] Extracted extension to d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\.3a3c5e25-b6c5-4285-9892-0fdc86c10bde: graphql.vscode-graphql
+2023-03-31 09:49:57.483 [info] Renamed to d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\graphql.vscode-graphql-0.8.7
+2023-03-31 09:49:57.496 [info] Extracting extension completed. graphql.vscode-graphql
+2023-03-31 09:50:00.099 [info] Extension signature is verified: agutierrezr.vscode-essentials
+2023-03-31 09:50:00.126 [info] Extracted extension to d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\.8a997925-58f1-43f1-8644-ac3193e4f0a5: agutierrezr.vscode-essentials
+2023-03-31 09:50:00.146 [info] Renamed to d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\agutierrezr.vscode-essentials-1.0.3
+2023-03-31 09:50:00.160 [info] Extracting extension completed. agutierrezr.vscode-essentials
+2023-03-31 09:50:00.212 [info] Extension installed successfully: ecmel.vscode-html-css
+2023-03-31 09:50:00.212 [info] Extension installed successfully: xabikos.javascriptsnippets
+2023-03-31 09:50:00.213 [info] Extension installed successfully: visualstudioexptteam.intellicode-api-usage-examples
+2023-03-31 09:50:00.213 [info] Extension installed successfully: formulahendry.code-runner
+2023-03-31 09:50:00.214 [info] Extension installed successfully: aaron-bond.better-comments
+2023-03-31 09:50:00.214 [info] Extension installed successfully: davidanson.vscode-markdownlint
+2023-03-31 09:50:00.215 [info] Extension installed successfully: eg2.vscode-npm-script
+2023-03-31 09:50:00.215 [info] Extension installed successfully: editorconfig.editorconfig
+2023-03-31 09:50:00.215 [info] Extension installed successfully: usernamehw.errorlens
+2023-03-31 09:50:00.216 [info] Extension installed successfully: christian-kohler.path-intellisense
+2023-03-31 09:50:00.216 [info] Extension installed successfully: formulahendry.auto-rename-tag
+2023-03-31 09:50:00.216 [info] Extension installed successfully: graphql.vscode-graphql-syntax
+2023-03-31 09:50:00.217 [info] Extension installed successfully: mikestead.dotenv
+2023-03-31 09:50:00.217 [info] Extension installed successfully: wmaurer.vscode-jumpy
+2023-03-31 09:50:00.218 [info] Extension installed successfully: silvenon.mdx
+2023-03-31 09:50:00.218 [info] Extension installed successfully: ctf0.macros
+2023-03-31 09:50:00.218 [info] Extension installed successfully: britesnow.vscode-toggle-quotes
+2023-03-31 09:50:00.220 [info] Extension installed successfully: ryu1kn.partial-diff
+2023-03-31 09:50:00.220 [info] Extension installed successfully: formulahendry.auto-close-tag
+2023-03-31 09:50:00.220 [info] Extension installed successfully: dionmunk.vscode-notes
+2023-03-31 09:50:00.221 [info] Extension installed successfully: rebornix.toggle
+2023-03-31 09:50:00.221 [info] Extension installed successfully: wmaurer.change-case
+2023-03-31 09:50:00.221 [info] Extension installed successfully: bodil.file-browser
+2023-03-31 09:50:00.222 [info] Extension installed successfully: mgmcdermott.vscode-language-babel
+2023-03-31 09:50:00.222 [info] Extension installed successfully: albert.tabout
+2023-03-31 09:50:00.222 [info] Extension installed successfully: yatki.vscode-surround
+2023-03-31 09:50:00.223 [info] Extension installed successfully: tyriar.sort-lines
+2023-03-31 09:50:00.223 [info] Extension installed successfully: casperstorm.directory-files
+2023-03-31 09:50:00.223 [info] Extension installed successfully: donjayamanne.githistory
+2023-03-31 09:50:00.224 [info] Extension installed successfully: mrmlnc.vscode-duplicate
+2023-03-31 09:50:00.224 [info] Extension installed successfully: nidu.copy-json-path
+2023-03-31 09:50:00.224 [info] Extension installed successfully: yzhang.markdown-all-in-one
+2023-03-31 09:50:00.225 [info] Extension installed successfully: cipchk.cssrem
+2023-03-31 09:50:00.225 [info] Extension installed successfully: bbugh.change-color-format
+2023-03-31 09:50:00.225 [info] Extension installed successfully: christian-kohler.npm-intellisense
+2023-03-31 09:50:00.226 [info] Extension installed successfully: redhat.vscode-yaml
+2023-03-31 09:50:00.226 [info] Extension installed successfully: vsls-contrib.gistfs
+2023-03-31 09:50:00.226 [info] Extension installed successfully: ms-edgedevtools.vscode-edge-devtools
+2023-03-31 09:50:00.227 [info] Extension installed successfully: exodiusstudios.comment-anchors
+2023-03-31 09:50:00.227 [info] Extension installed successfully: micnil.vscode-checkpoints
+2023-03-31 09:50:00.227 [info] Extension installed successfully: mishkinf.goto-next-previous-member
+2023-03-31 09:50:00.227 [info] Extension installed successfully: agutierrezr.emmet-keybindings
+2023-03-31 09:50:00.228 [info] Extension installed successfully: sburg.vscode-javascript-booster
+2023-03-31 09:50:00.228 [info] Extension installed successfully: anteprimorac.html-end-tag-labels
+2023-03-31 09:50:00.228 [info] Extension installed successfully: sibiraj-s.vscode-scss-formatter
+2023-03-31 09:50:00.229 [info] Extension installed successfully: inu1255.easy-snippet
+2023-03-31 09:50:00.229 [info] Extension installed successfully: mrmlnc.vscode-scss
+2023-03-31 09:50:00.229 [info] Extension installed successfully: rubbersheep.gi
+2023-03-31 09:50:00.230 [info] Extension installed successfully: richie5um2.vscode-sort-json
+2023-03-31 09:50:00.230 [info] Extension installed successfully: jasonlhy.hungry-delete
+2023-03-31 09:50:00.230 [info] Extension installed successfully: eamodio.gitlens
+2023-03-31 09:50:00.231 [info] Extension installed successfully: ms-vsliveshare.vsliveshare
+2023-03-31 09:50:00.231 [info] Extension installed successfully: deerawan.vscode-faker
+2023-03-31 09:50:00.231 [info] Extension installed successfully: visualstudioexptteam.vscodeintellicode
+2023-03-31 09:50:00.231 [info] Extension installed successfully: graphql.vscode-graphql
+2023-03-31 09:50:00.232 [info] Extension installed successfully: agutierrezr.vscode-essentials
+2023-03-31 09:51:40.675 [info] Uninstalling extension from the profile: redhat.vscode-yaml@1.12.2 vscode-userdata:/d%3A/Downloads/VSCode-win32-ia32-1.77.0/data/extensions/extensions.json
+2023-03-31 09:51:40.772 [info] Marked extension as uninstalled redhat.vscode-yaml-1.12.2
+2023-03-31 09:51:41.026 [info] Successfully uninstalled extension from the profile redhat.vscode-yaml@1.12.2 vscode-userdata:/d%3A/Downloads/VSCode-win32-ia32-1.77.0/data/extensions/extensions.json
+2023-03-31 09:51:44.467 [info] Uninstalling extension from the profile: deerawan.vscode-faker@2.0.0 vscode-userdata:/d%3A/Downloads/VSCode-win32-ia32-1.77.0/data/extensions/extensions.json
+2023-03-31 09:51:44.574 [info] Marked extension as uninstalled deerawan.vscode-faker-2.0.0
+2023-03-31 09:51:44.767 [info] Successfully uninstalled extension from the profile deerawan.vscode-faker@2.0.0 vscode-userdata:/d%3A/Downloads/VSCode-win32-ia32-1.77.0/data/extensions/extensions.json
+2023-03-31 09:51:47.498 [info] Uninstalling extension from the profile: agutierrezr.vscode-essentials@1.0.3 vscode-userdata:/d%3A/Downloads/VSCode-win32-ia32-1.77.0/data/extensions/extensions.json
+2023-03-31 09:51:47.596 [info] Uninstalling extension from the profile: aaron-bond.better-comments@3.0.2 vscode-userdata:/d%3A/Downloads/VSCode-win32-ia32-1.77.0/data/extensions/extensions.json
+2023-03-31 09:51:47.596 [info] Uninstalling extension from the profile: agutierrezr.emmet-keybindings@1.2.1 vscode-userdata:/d%3A/Downloads/VSCode-win32-ia32-1.77.0/data/extensions/extensions.json
+2023-03-31 09:51:47.596 [info] Uninstalling extension from the profile: albert.tabout@0.2.2 vscode-userdata:/d%3A/Downloads/VSCode-win32-ia32-1.77.0/data/extensions/extensions.json
+2023-03-31 09:51:47.597 [info] Uninstalling extension from the profile: anteprimorac.html-end-tag-labels@0.11.0 vscode-userdata:/d%3A/Downloads/VSCode-win32-ia32-1.77.0/data/extensions/extensions.json
+2023-03-31 09:51:47.597 [info] Uninstalling extension from the profile: bbugh.change-color-format@1.2.0 vscode-userdata:/d%3A/Downloads/VSCode-win32-ia32-1.77.0/data/extensions/extensions.json
+2023-03-31 09:51:47.597 [info] Uninstalling extension from the profile: bodil.file-browser@0.2.11 vscode-userdata:/d%3A/Downloads/VSCode-win32-ia32-1.77.0/data/extensions/extensions.json
+2023-03-31 09:51:47.597 [info] Uninstalling extension from the profile: britesnow.vscode-toggle-quotes@0.3.6 vscode-userdata:/d%3A/Downloads/VSCode-win32-ia32-1.77.0/data/extensions/extensions.json
+2023-03-31 09:51:47.598 [info] Uninstalling extension from the profile: casperstorm.directory-files@0.0.5 vscode-userdata:/d%3A/Downloads/VSCode-win32-ia32-1.77.0/data/extensions/extensions.json
+2023-03-31 09:51:47.598 [info] Uninstalling extension from the profile: christian-kohler.npm-intellisense@1.4.4 vscode-userdata:/d%3A/Downloads/VSCode-win32-ia32-1.77.0/data/extensions/extensions.json
+2023-03-31 09:51:47.598 [info] Uninstalling extension from the profile: christian-kohler.path-intellisense@2.8.4 vscode-userdata:/d%3A/Downloads/VSCode-win32-ia32-1.77.0/data/extensions/extensions.json
+2023-03-31 09:51:47.598 [info] Uninstalling extension from the profile: cipchk.cssrem@3.1.0 vscode-userdata:/d%3A/Downloads/VSCode-win32-ia32-1.77.0/data/extensions/extensions.json
+2023-03-31 09:51:47.599 [info] Uninstalling extension from the profile: ctf0.macros@0.1.0 vscode-userdata:/d%3A/Downloads/VSCode-win32-ia32-1.77.0/data/extensions/extensions.json
+2023-03-31 09:51:47.599 [info] Uninstalling extension from the profile: davidanson.vscode-markdownlint@0.49.0 vscode-userdata:/d%3A/Downloads/VSCode-win32-ia32-1.77.0/data/extensions/extensions.json
+2023-03-31 09:51:47.599 [info] Uninstalling extension from the profile: dionmunk.vscode-notes@1.1.0 vscode-userdata:/d%3A/Downloads/VSCode-win32-ia32-1.77.0/data/extensions/extensions.json
+2023-03-31 09:51:47.600 [info] Uninstalling extension from the profile: donjayamanne.githistory@0.6.20 vscode-userdata:/d%3A/Downloads/VSCode-win32-ia32-1.77.0/data/extensions/extensions.json
+2023-03-31 09:51:47.600 [info] Uninstalling extension from the profile: eamodio.gitlens@13.4.0 vscode-userdata:/d%3A/Downloads/VSCode-win32-ia32-1.77.0/data/extensions/extensions.json
+2023-03-31 09:51:47.600 [info] Uninstalling extension from the profile: ecmel.vscode-html-css@1.13.1 vscode-userdata:/d%3A/Downloads/VSCode-win32-ia32-1.77.0/data/extensions/extensions.json
+2023-03-31 09:51:47.600 [info] Uninstalling extension from the profile: editorconfig.editorconfig@0.16.4 vscode-userdata:/d%3A/Downloads/VSCode-win32-ia32-1.77.0/data/extensions/extensions.json
+2023-03-31 09:51:47.601 [info] Uninstalling extension from the profile: eg2.vscode-npm-script@0.3.29 vscode-userdata:/d%3A/Downloads/VSCode-win32-ia32-1.77.0/data/extensions/extensions.json
+2023-03-31 09:51:47.601 [info] Uninstalling extension from the profile: esbenp.prettier-vscode@9.10.4 vscode-userdata:/d%3A/Downloads/VSCode-win32-ia32-1.77.0/data/extensions/extensions.json
+2023-03-31 09:51:47.601 [info] Uninstalling extension from the profile: exodiusstudios.comment-anchors@1.10.3 vscode-userdata:/d%3A/Downloads/VSCode-win32-ia32-1.77.0/data/extensions/extensions.json
+2023-03-31 09:51:47.601 [info] Uninstalling extension from the profile: formulahendry.auto-close-tag@0.5.14 vscode-userdata:/d%3A/Downloads/VSCode-win32-ia32-1.77.0/data/extensions/extensions.json
+2023-03-31 09:51:47.602 [info] Uninstalling extension from the profile: formulahendry.auto-rename-tag@0.1.10 vscode-userdata:/d%3A/Downloads/VSCode-win32-ia32-1.77.0/data/extensions/extensions.json
+2023-03-31 09:51:47.602 [info] Uninstalling extension from the profile: formulahendry.code-runner@0.12.0 vscode-userdata:/d%3A/Downloads/VSCode-win32-ia32-1.77.0/data/extensions/extensions.json
+2023-03-31 09:51:47.602 [info] Uninstalling extension from the profile: graphql.vscode-graphql@0.8.7 vscode-userdata:/d%3A/Downloads/VSCode-win32-ia32-1.77.0/data/extensions/extensions.json
+2023-03-31 09:51:47.603 [info] Uninstalling extension from the profile: inu1255.easy-snippet@0.6.3 vscode-userdata:/d%3A/Downloads/VSCode-win32-ia32-1.77.0/data/extensions/extensions.json
+2023-03-31 09:51:47.603 [info] Uninstalling extension from the profile: jasonlhy.hungry-delete@1.7.0 vscode-userdata:/d%3A/Downloads/VSCode-win32-ia32-1.77.0/data/extensions/extensions.json
+2023-03-31 09:51:47.603 [info] Uninstalling extension from the profile: mgmcdermott.vscode-language-babel@0.0.38 vscode-userdata:/d%3A/Downloads/VSCode-win32-ia32-1.77.0/data/extensions/extensions.json
+2023-03-31 09:51:47.603 [info] Uninstalling extension from the profile: micnil.vscode-checkpoints@1.3.3 vscode-userdata:/d%3A/Downloads/VSCode-win32-ia32-1.77.0/data/extensions/extensions.json
+2023-03-31 09:51:47.604 [info] Uninstalling extension from the profile: mikestead.dotenv@1.0.1 vscode-userdata:/d%3A/Downloads/VSCode-win32-ia32-1.77.0/data/extensions/extensions.json
+2023-03-31 09:51:47.604 [info] Uninstalling extension from the profile: mishkinf.goto-next-previous-member@0.0.6 vscode-userdata:/d%3A/Downloads/VSCode-win32-ia32-1.77.0/data/extensions/extensions.json
+2023-03-31 09:51:47.604 [info] Uninstalling extension from the profile: mrmlnc.vscode-duplicate@1.2.1 vscode-userdata:/d%3A/Downloads/VSCode-win32-ia32-1.77.0/data/extensions/extensions.json
+2023-03-31 09:51:47.604 [info] Uninstalling extension from the profile: mrmlnc.vscode-scss@0.10.0 vscode-userdata:/d%3A/Downloads/VSCode-win32-ia32-1.77.0/data/extensions/extensions.json
+2023-03-31 09:51:47.605 [info] Uninstalling extension from the profile: ms-edgedevtools.vscode-edge-devtools@2.1.1 vscode-userdata:/d%3A/Downloads/VSCode-win32-ia32-1.77.0/data/extensions/extensions.json
+2023-03-31 09:51:47.606 [info] Uninstalling extension from the profile: ms-vsliveshare.vsliveshare@1.0.5834 vscode-userdata:/d%3A/Downloads/VSCode-win32-ia32-1.77.0/data/extensions/extensions.json
+2023-03-31 09:51:47.606 [info] Uninstalling extension from the profile: nidu.copy-json-path@0.3.0 vscode-userdata:/d%3A/Downloads/VSCode-win32-ia32-1.77.0/data/extensions/extensions.json
+2023-03-31 09:51:47.606 [info] Uninstalling extension from the profile: rebornix.toggle@0.0.2 vscode-userdata:/d%3A/Downloads/VSCode-win32-ia32-1.77.0/data/extensions/extensions.json
+2023-03-31 09:51:47.606 [info] Uninstalling extension from the profile: richie5um2.vscode-sort-json@1.20.0 vscode-userdata:/d%3A/Downloads/VSCode-win32-ia32-1.77.0/data/extensions/extensions.json
+2023-03-31 09:51:47.608 [info] Uninstalling extension from the profile: ritwickdey.liveserver@5.7.9 vscode-userdata:/d%3A/Downloads/VSCode-win32-ia32-1.77.0/data/extensions/extensions.json
+2023-03-31 09:51:47.608 [info] Uninstalling extension from the profile: rubbersheep.gi@0.2.11 vscode-userdata:/d%3A/Downloads/VSCode-win32-ia32-1.77.0/data/extensions/extensions.json
+2023-03-31 09:51:47.608 [info] Uninstalling extension from the profile: ryu1kn.partial-diff@1.4.3 vscode-userdata:/d%3A/Downloads/VSCode-win32-ia32-1.77.0/data/extensions/extensions.json
+2023-03-31 09:51:47.609 [info] Uninstalling extension from the profile: sburg.vscode-javascript-booster@14.0.1 vscode-userdata:/d%3A/Downloads/VSCode-win32-ia32-1.77.0/data/extensions/extensions.json
+2023-03-31 09:51:47.609 [info] Uninstalling extension from the profile: sibiraj-s.vscode-scss-formatter@2.4.5 vscode-userdata:/d%3A/Downloads/VSCode-win32-ia32-1.77.0/data/extensions/extensions.json
+2023-03-31 09:51:47.609 [info] Uninstalling extension from the profile: silvenon.mdx@0.1.1 vscode-userdata:/d%3A/Downloads/VSCode-win32-ia32-1.77.0/data/extensions/extensions.json
+2023-03-31 09:51:47.609 [info] Uninstalling extension from the profile: tyriar.sort-lines@1.9.1 vscode-userdata:/d%3A/Downloads/VSCode-win32-ia32-1.77.0/data/extensions/extensions.json
+2023-03-31 09:51:47.609 [info] Uninstalling extension from the profile: usernamehw.errorlens@3.8.0 vscode-userdata:/d%3A/Downloads/VSCode-win32-ia32-1.77.0/data/extensions/extensions.json
+2023-03-31 09:51:47.609 [info] Uninstalling extension from the profile: visualstudioexptteam.vscodeintellicode@1.2.30 vscode-userdata:/d%3A/Downloads/VSCode-win32-ia32-1.77.0/data/extensions/extensions.json
+2023-03-31 09:51:47.610 [info] Uninstalling extension from the profile: vsls-contrib.gistfs@0.4.1 vscode-userdata:/d%3A/Downloads/VSCode-win32-ia32-1.77.0/data/extensions/extensions.json
+2023-03-31 09:51:47.610 [info] Uninstalling extension from the profile: wmaurer.change-case@1.0.0 vscode-userdata:/d%3A/Downloads/VSCode-win32-ia32-1.77.0/data/extensions/extensions.json
+2023-03-31 09:51:47.610 [info] Uninstalling extension from the profile: wmaurer.vscode-jumpy@0.3.1 vscode-userdata:/d%3A/Downloads/VSCode-win32-ia32-1.77.0/data/extensions/extensions.json
+2023-03-31 09:51:47.610 [info] Uninstalling extension from the profile: xabikos.javascriptsnippets@1.8.0 vscode-userdata:/d%3A/Downloads/VSCode-win32-ia32-1.77.0/data/extensions/extensions.json
+2023-03-31 09:51:47.610 [info] Uninstalling extension from the profile: yatki.vscode-surround@1.5.0 vscode-userdata:/d%3A/Downloads/VSCode-win32-ia32-1.77.0/data/extensions/extensions.json
+2023-03-31 09:51:47.610 [info] Uninstalling extension from the profile: yzhang.markdown-all-in-one@3.5.1 vscode-userdata:/d%3A/Downloads/VSCode-win32-ia32-1.77.0/data/extensions/extensions.json
+2023-03-31 09:51:47.610 [info] Uninstalling extension from the profile: visualstudioexptteam.intellicode-api-usage-examples@0.2.7 vscode-userdata:/d%3A/Downloads/VSCode-win32-ia32-1.77.0/data/extensions/extensions.json
+2023-03-31 09:51:47.629 [info] Marked extension as uninstalled agutierrezr.vscode-essentials-1.0.3
+2023-03-31 09:51:47.661 [info] Marked extension as uninstalled aaron-bond.better-comments-3.0.2
+2023-03-31 09:51:47.684 [info] Marked extension as uninstalled agutierrezr.emmet-keybindings-1.2.1
+2023-03-31 09:51:47.706 [info] Marked extension as uninstalled albert.tabout-0.2.2
+2023-03-31 09:51:47.729 [info] Marked extension as uninstalled anteprimorac.html-end-tag-labels-0.11.0
+2023-03-31 09:51:47.754 [info] Marked extension as uninstalled bbugh.change-color-format-1.2.0
+2023-03-31 09:51:47.779 [info] Marked extension as uninstalled bodil.file-browser-0.2.11
+2023-03-31 09:51:47.802 [info] Marked extension as uninstalled britesnow.vscode-toggle-quotes-0.3.6
+2023-03-31 09:51:47.821 [info] Successfully uninstalled extension from the profile agutierrezr.vscode-essentials@1.0.3 vscode-userdata:/d%3A/Downloads/VSCode-win32-ia32-1.77.0/data/extensions/extensions.json
+2023-03-31 09:51:47.829 [info] Marked extension as uninstalled casperstorm.directory-files-0.0.5
+2023-03-31 09:51:47.923 [info] Successfully uninstalled extension from the profile aaron-bond.better-comments@3.0.2 vscode-userdata:/d%3A/Downloads/VSCode-win32-ia32-1.77.0/data/extensions/extensions.json
+2023-03-31 09:51:47.924 [info] Successfully uninstalled extension from the profile agutierrezr.emmet-keybindings@1.2.1 vscode-userdata:/d%3A/Downloads/VSCode-win32-ia32-1.77.0/data/extensions/extensions.json
+2023-03-31 09:51:47.925 [info] Successfully uninstalled extension from the profile albert.tabout@0.2.2 vscode-userdata:/d%3A/Downloads/VSCode-win32-ia32-1.77.0/data/extensions/extensions.json
+2023-03-31 09:51:47.928 [info] Successfully uninstalled extension from the profile anteprimorac.html-end-tag-labels@0.11.0 vscode-userdata:/d%3A/Downloads/VSCode-win32-ia32-1.77.0/data/extensions/extensions.json
+2023-03-31 09:51:48.040 [info] Successfully uninstalled extension from the profile bbugh.change-color-format@1.2.0 vscode-userdata:/d%3A/Downloads/VSCode-win32-ia32-1.77.0/data/extensions/extensions.json
+2023-03-31 09:51:48.040 [info] Successfully uninstalled extension from the profile bodil.file-browser@0.2.11 vscode-userdata:/d%3A/Downloads/VSCode-win32-ia32-1.77.0/data/extensions/extensions.json
+2023-03-31 09:51:48.052 [info] Successfully uninstalled extension from the profile britesnow.vscode-toggle-quotes@0.3.6 vscode-userdata:/d%3A/Downloads/VSCode-win32-ia32-1.77.0/data/extensions/extensions.json
+2023-03-31 09:51:48.205 [info] Marked extension as uninstalled christian-kohler.npm-intellisense-1.4.4
+2023-03-31 09:51:48.233 [info] Successfully uninstalled extension from the profile casperstorm.directory-files@0.0.5 vscode-userdata:/d%3A/Downloads/VSCode-win32-ia32-1.77.0/data/extensions/extensions.json
+2023-03-31 09:51:48.235 [info] Successfully uninstalled extension from the profile christian-kohler.npm-intellisense@1.4.4 vscode-userdata:/d%3A/Downloads/VSCode-win32-ia32-1.77.0/data/extensions/extensions.json
+2023-03-31 09:51:48.236 [info] Successfully uninstalled extension from the profile christian-kohler.path-intellisense@2.8.4 vscode-userdata:/d%3A/Downloads/VSCode-win32-ia32-1.77.0/data/extensions/extensions.json
+2023-03-31 09:51:48.589 [info] Successfully uninstalled extension from the profile cipchk.cssrem@3.1.0 vscode-userdata:/d%3A/Downloads/VSCode-win32-ia32-1.77.0/data/extensions/extensions.json
+2023-03-31 09:51:49.410 [info] Successfully uninstalled extension from the profile ctf0.macros@0.1.0 vscode-userdata:/d%3A/Downloads/VSCode-win32-ia32-1.77.0/data/extensions/extensions.json
+2023-03-31 09:51:49.437 [info] Marked extension as uninstalled christian-kohler.path-intellisense-2.8.4
+2023-03-31 09:51:49.890 [info] Successfully uninstalled extension from the profile davidanson.vscode-markdownlint@0.49.0 vscode-userdata:/d%3A/Downloads/VSCode-win32-ia32-1.77.0/data/extensions/extensions.json
+2023-03-31 09:51:49.893 [info] Marked extension as uninstalled cipchk.cssrem-3.1.0
+2023-03-31 09:51:50.092 [info] Successfully uninstalled extension from the profile dionmunk.vscode-notes@1.1.0 vscode-userdata:/d%3A/Downloads/VSCode-win32-ia32-1.77.0/data/extensions/extensions.json
+2023-03-31 09:51:50.098 [info] Marked extension as uninstalled ctf0.macros-0.1.0
+2023-03-31 09:51:50.148 [info] Marked extension as uninstalled davidanson.vscode-markdownlint-0.49.0
+2023-03-31 09:51:50.152 [info] Successfully uninstalled extension from the profile donjayamanne.githistory@0.6.20 vscode-userdata:/d%3A/Downloads/VSCode-win32-ia32-1.77.0/data/extensions/extensions.json
+2023-03-31 09:51:50.166 [info] Marked extension as uninstalled dionmunk.vscode-notes-1.1.0
+2023-03-31 09:51:50.184 [info] Marked extension as uninstalled donjayamanne.githistory-0.6.20
+2023-03-31 09:51:50.311 [info] Successfully uninstalled extension from the profile eamodio.gitlens@13.4.0 vscode-userdata:/d%3A/Downloads/VSCode-win32-ia32-1.77.0/data/extensions/extensions.json
+2023-03-31 09:51:50.396 [info] Successfully uninstalled extension from the profile ecmel.vscode-html-css@1.13.1 vscode-userdata:/d%3A/Downloads/VSCode-win32-ia32-1.77.0/data/extensions/extensions.json
+2023-03-31 09:51:50.461 [info] Successfully uninstalled extension from the profile editorconfig.editorconfig@0.16.4 vscode-userdata:/d%3A/Downloads/VSCode-win32-ia32-1.77.0/data/extensions/extensions.json
+2023-03-31 09:51:50.463 [info] Marked extension as uninstalled eamodio.gitlens-13.4.0
+2023-03-31 09:51:50.552 [info] Successfully uninstalled extension from the profile eg2.vscode-npm-script@0.3.29 vscode-userdata:/d%3A/Downloads/VSCode-win32-ia32-1.77.0/data/extensions/extensions.json
+2023-03-31 09:51:50.701 [info] Successfully uninstalled extension from the profile esbenp.prettier-vscode@9.10.4 vscode-userdata:/d%3A/Downloads/VSCode-win32-ia32-1.77.0/data/extensions/extensions.json
+2023-03-31 09:51:50.930 [info] Marked extension as uninstalled ecmel.vscode-html-css-1.13.1
+2023-03-31 09:51:50.935 [info] Successfully uninstalled extension from the profile exodiusstudios.comment-anchors@1.10.3 vscode-userdata:/d%3A/Downloads/VSCode-win32-ia32-1.77.0/data/extensions/extensions.json
+2023-03-31 09:51:51.209 [info] Successfully uninstalled extension from the profile formulahendry.auto-close-tag@0.5.14 vscode-userdata:/d%3A/Downloads/VSCode-win32-ia32-1.77.0/data/extensions/extensions.json
+2023-03-31 09:51:51.256 [info] Marked extension as uninstalled editorconfig.editorconfig-0.16.4
+2023-03-31 09:51:51.349 [info] Successfully uninstalled extension from the profile formulahendry.auto-rename-tag@0.1.10 vscode-userdata:/d%3A/Downloads/VSCode-win32-ia32-1.77.0/data/extensions/extensions.json
+2023-03-31 09:51:51.427 [info] Marked extension as uninstalled eg2.vscode-npm-script-0.3.29
+2023-03-31 09:51:51.502 [info] Successfully uninstalled extension from the profile formulahendry.code-runner@0.12.0 vscode-userdata:/d%3A/Downloads/VSCode-win32-ia32-1.77.0/data/extensions/extensions.json
+2023-03-31 09:51:51.561 [info] Marked extension as uninstalled esbenp.prettier-vscode-9.10.4
+2023-03-31 09:51:51.630 [info] Successfully uninstalled extension from the profile graphql.vscode-graphql@0.8.7 vscode-userdata:/d%3A/Downloads/VSCode-win32-ia32-1.77.0/data/extensions/extensions.json
+2023-03-31 09:51:51.700 [info] Successfully uninstalled extension from the profile inu1255.easy-snippet@0.6.3 vscode-userdata:/d%3A/Downloads/VSCode-win32-ia32-1.77.0/data/extensions/extensions.json
+2023-03-31 09:51:51.759 [info] Successfully uninstalled extension from the profile jasonlhy.hungry-delete@1.7.0 vscode-userdata:/d%3A/Downloads/VSCode-win32-ia32-1.77.0/data/extensions/extensions.json
+2023-03-31 09:51:51.772 [info] Marked extension as uninstalled exodiusstudios.comment-anchors-1.10.3
+2023-03-31 09:51:51.867 [info] Successfully uninstalled extension from the profile mgmcdermott.vscode-language-babel@0.0.38 vscode-userdata:/d%3A/Downloads/VSCode-win32-ia32-1.77.0/data/extensions/extensions.json
+2023-03-31 09:51:51.979 [info] Successfully uninstalled extension from the profile micnil.vscode-checkpoints@1.3.3 vscode-userdata:/d%3A/Downloads/VSCode-win32-ia32-1.77.0/data/extensions/extensions.json
+2023-03-31 09:51:52.022 [info] Marked extension as uninstalled formulahendry.auto-close-tag-0.5.14
+2023-03-31 09:51:52.124 [info] Successfully uninstalled extension from the profile mikestead.dotenv@1.0.1 vscode-userdata:/d%3A/Downloads/VSCode-win32-ia32-1.77.0/data/extensions/extensions.json
+2023-03-31 09:51:52.409 [info] Successfully uninstalled extension from the profile mishkinf.goto-next-previous-member@0.0.6 vscode-userdata:/d%3A/Downloads/VSCode-win32-ia32-1.77.0/data/extensions/extensions.json
+2023-03-31 09:51:52.421 [info] Successfully uninstalled extension from the profile mrmlnc.vscode-duplicate@1.2.1 vscode-userdata:/d%3A/Downloads/VSCode-win32-ia32-1.77.0/data/extensions/extensions.json
+2023-03-31 09:51:52.430 [info] Marked extension as uninstalled formulahendry.auto-rename-tag-0.1.10
+2023-03-31 09:51:52.681 [info] Successfully uninstalled extension from the profile mrmlnc.vscode-scss@0.10.0 vscode-userdata:/d%3A/Downloads/VSCode-win32-ia32-1.77.0/data/extensions/extensions.json
+2023-03-31 09:51:52.738 [info] Marked extension as uninstalled formulahendry.code-runner-0.12.0
+2023-03-31 09:51:52.796 [info] Successfully uninstalled extension from the profile ms-edgedevtools.vscode-edge-devtools@2.1.1 vscode-userdata:/d%3A/Downloads/VSCode-win32-ia32-1.77.0/data/extensions/extensions.json
+2023-03-31 09:51:53.030 [info] Successfully uninstalled extension from the profile ms-vsliveshare.vsliveshare@1.0.5834 vscode-userdata:/d%3A/Downloads/VSCode-win32-ia32-1.77.0/data/extensions/extensions.json
+2023-03-31 09:51:53.047 [info] Marked extension as uninstalled graphql.vscode-graphql-0.8.7
+2023-03-31 09:51:53.241 [info] Successfully uninstalled extension from the profile nidu.copy-json-path@0.3.0 vscode-userdata:/d%3A/Downloads/VSCode-win32-ia32-1.77.0/data/extensions/extensions.json
+2023-03-31 09:51:53.363 [info] Successfully uninstalled extension from the profile rebornix.toggle@0.0.2 vscode-userdata:/d%3A/Downloads/VSCode-win32-ia32-1.77.0/data/extensions/extensions.json
+2023-03-31 09:51:53.404 [info] Marked extension as uninstalled inu1255.easy-snippet-0.6.3
+2023-03-31 09:51:53.583 [info] Successfully uninstalled extension from the profile richie5um2.vscode-sort-json@1.20.0 vscode-userdata:/d%3A/Downloads/VSCode-win32-ia32-1.77.0/data/extensions/extensions.json
+2023-03-31 09:51:53.595 [info] Marked extension as uninstalled jasonlhy.hungry-delete-1.7.0
+2023-03-31 09:51:53.738 [info] Successfully uninstalled extension from the profile ritwickdey.liveserver@5.7.9 vscode-userdata:/d%3A/Downloads/VSCode-win32-ia32-1.77.0/data/extensions/extensions.json
+2023-03-31 09:51:53.783 [info] Successfully uninstalled extension from the profile rubbersheep.gi@0.2.11 vscode-userdata:/d%3A/Downloads/VSCode-win32-ia32-1.77.0/data/extensions/extensions.json
+2023-03-31 09:51:53.786 [info] Marked extension as uninstalled mgmcdermott.vscode-language-babel-0.0.38
+2023-03-31 09:51:53.928 [info] Successfully uninstalled extension from the profile ryu1kn.partial-diff@1.4.3 vscode-userdata:/d%3A/Downloads/VSCode-win32-ia32-1.77.0/data/extensions/extensions.json
+2023-03-31 09:51:54.014 [info] Marked extension as uninstalled micnil.vscode-checkpoints-1.3.3
+2023-03-31 09:51:54.147 [info] Successfully uninstalled extension from the profile sburg.vscode-javascript-booster@14.0.1 vscode-userdata:/d%3A/Downloads/VSCode-win32-ia32-1.77.0/data/extensions/extensions.json
+2023-03-31 09:51:54.161 [info] Successfully uninstalled extension from the profile sibiraj-s.vscode-scss-formatter@2.4.5 vscode-userdata:/d%3A/Downloads/VSCode-win32-ia32-1.77.0/data/extensions/extensions.json
+2023-03-31 09:51:54.304 [info] Marked extension as uninstalled mikestead.dotenv-1.0.1
+2023-03-31 09:51:54.339 [info] Successfully uninstalled extension from the profile silvenon.mdx@0.1.1 vscode-userdata:/d%3A/Downloads/VSCode-win32-ia32-1.77.0/data/extensions/extensions.json
+2023-03-31 09:51:54.544 [info] Successfully uninstalled extension from the profile tyriar.sort-lines@1.9.1 vscode-userdata:/d%3A/Downloads/VSCode-win32-ia32-1.77.0/data/extensions/extensions.json
+2023-03-31 09:51:54.669 [info] Successfully uninstalled extension from the profile usernamehw.errorlens@3.8.0 vscode-userdata:/d%3A/Downloads/VSCode-win32-ia32-1.77.0/data/extensions/extensions.json
+2023-03-31 09:51:54.679 [info] Marked extension as uninstalled mishkinf.goto-next-previous-member-0.0.6
+2023-03-31 09:51:54.896 [info] Successfully uninstalled extension from the profile visualstudioexptteam.vscodeintellicode@1.2.30 vscode-userdata:/d%3A/Downloads/VSCode-win32-ia32-1.77.0/data/extensions/extensions.json
+2023-03-31 09:51:54.907 [info] Marked extension as uninstalled mrmlnc.vscode-duplicate-1.2.1
+2023-03-31 09:51:55.046 [info] Successfully uninstalled extension from the profile vsls-contrib.gistfs@0.4.1 vscode-userdata:/d%3A/Downloads/VSCode-win32-ia32-1.77.0/data/extensions/extensions.json
+2023-03-31 09:51:55.061 [info] Marked extension as uninstalled mrmlnc.vscode-scss-0.10.0
+2023-03-31 09:51:55.124 [info] Successfully uninstalled extension from the profile wmaurer.change-case@1.0.0 vscode-userdata:/d%3A/Downloads/VSCode-win32-ia32-1.77.0/data/extensions/extensions.json
+2023-03-31 09:51:55.194 [info] Successfully uninstalled extension from the profile wmaurer.vscode-jumpy@0.3.1 vscode-userdata:/d%3A/Downloads/VSCode-win32-ia32-1.77.0/data/extensions/extensions.json
+2023-03-31 09:51:55.198 [info] Marked extension as uninstalled ms-edgedevtools.vscode-edge-devtools-2.1.1
+2023-03-31 09:51:55.324 [info] Successfully uninstalled extension from the profile xabikos.javascriptsnippets@1.8.0 vscode-userdata:/d%3A/Downloads/VSCode-win32-ia32-1.77.0/data/extensions/extensions.json
+2023-03-31 09:51:55.388 [info] Successfully uninstalled extension from the profile yatki.vscode-surround@1.5.0 vscode-userdata:/d%3A/Downloads/VSCode-win32-ia32-1.77.0/data/extensions/extensions.json
+2023-03-31 09:51:55.469 [info] Successfully uninstalled extension from the profile yzhang.markdown-all-in-one@3.5.1 vscode-userdata:/d%3A/Downloads/VSCode-win32-ia32-1.77.0/data/extensions/extensions.json
+2023-03-31 09:51:55.493 [info] Marked extension as uninstalled ms-vsliveshare.vsliveshare-1.0.5834
+2023-03-31 09:51:55.723 [info] Successfully uninstalled extension from the profile visualstudioexptteam.intellicode-api-usage-examples@0.2.7 vscode-userdata:/d%3A/Downloads/VSCode-win32-ia32-1.77.0/data/extensions/extensions.json
+2023-03-31 09:51:55.904 [info] Marked extension as uninstalled nidu.copy-json-path-0.3.0
+2023-03-31 09:51:56.163 [info] Marked extension as uninstalled rebornix.toggle-0.0.2
+2023-03-31 09:51:56.369 [info] Marked extension as uninstalled richie5um2.vscode-sort-json-1.20.0
+2023-03-31 09:51:56.600 [info] Marked extension as uninstalled ritwickdey.liveserver-5.7.9
+2023-03-31 09:51:56.763 [info] Marked extension as uninstalled rubbersheep.gi-0.2.11
+2023-03-31 09:51:56.861 [info] Marked extension as uninstalled ryu1kn.partial-diff-1.4.3
+2023-03-31 09:51:57.070 [info] Marked extension as uninstalled sburg.vscode-javascript-booster-14.0.1
+2023-03-31 09:51:57.173 [info] Marked extension as uninstalled sibiraj-s.vscode-scss-formatter-2.4.5
+2023-03-31 09:51:57.283 [info] Marked extension as uninstalled silvenon.mdx-0.1.1
+2023-03-31 09:51:57.411 [info] Marked extension as uninstalled tyriar.sort-lines-1.9.1
+2023-03-31 09:51:57.501 [info] Marked extension as uninstalled usernamehw.errorlens-3.8.0
+2023-03-31 09:51:57.646 [info] Marked extension as uninstalled visualstudioexptteam.vscodeintellicode-1.2.30
+2023-03-31 09:51:57.787 [info] Marked extension as uninstalled vsls-contrib.gistfs-0.4.1
+2023-03-31 09:51:57.953 [info] Marked extension as uninstalled wmaurer.change-case-1.0.0
+2023-03-31 09:51:58.016 [info] Marked extension as uninstalled wmaurer.vscode-jumpy-0.3.1
+2023-03-31 09:51:58.186 [info] Marked extension as uninstalled xabikos.javascriptsnippets-1.8.0
+2023-03-31 09:51:58.260 [info] Marked extension as uninstalled yatki.vscode-surround-1.5.0
+2023-03-31 09:51:58.377 [info] Marked extension as uninstalled yzhang.markdown-all-in-one-3.5.1
+2023-03-31 09:51:58.505 [info] Marked extension as uninstalled visualstudioexptteam.intellicode-api-usage-examples-0.2.7

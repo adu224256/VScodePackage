@@ -1,0 +1,63 @@
+{
+    "userDataProfilesMigration": true,
+    "profileAssociations": {
+        "workspaces": {
+            "file:///d%3A/Downloads/VSCode-win32-ia32-1.77.0": "__default__profile__"
+        },
+        "emptyWindows": {}
+    },
+    "profileAssociationsMigration": true,
+    "telemetry.machineId": "e70552f840b3dd4524c708beffeebdbc9c45607803e11bb264fd29276057f568",
+    "backupWorkspaces": {
+        "workspaces": [],
+        "folders": [
+            {
+                "folderUri": "file:///d%3A/Downloads/VSCode-win32-ia32-1.77.0"
+            }
+        ],
+        "emptyWindows": [
+            {
+                "backupFolder": "1680232370900"
+            }
+        ]
+    },
+    "windowControlHeight": 30,
+    "theme": "vs-dark",
+    "themeBackground": "#1e1e1e",
+    "windowSplash": {
+        "zoomLevel": 0,
+        "baseTheme": "vs-dark",
+        "colorInfo": {
+            "foreground": "#cccccc",
+            "background": "#1e1e1e",
+            "editorBackground": "#1e1e1e",
+            "titleBarBackground": "#3c3c3c",
+            "activityBarBackground": "#333333",
+            "sideBarBackground": "#252526",
+            "statusBarBackground": "#007acc",
+            "statusBarNoFolderBackground": "#68217a"
+        },
+        "layoutInfo": {
+            "sideBarSide": "left",
+            "editorPartMinWidth": 220,
+            "titleBarHeight": 30,
+            "activityBarWidth": 48,
+            "sideBarWidth": 256,
+            "statusBarHeight": 22,
+            "windowBorder": false
+        }
+    },
+    "windowsState": {
+        "lastActiveWindow": {
+            "backupPath": "D:\\Downloads\\VSCode-win32-ia32-1.77.0\\data\\user-data\\Backups\\1680232370900",
+            "uiState": {
+                "mode": 0,
+                "x": 248,
+                "y": 4,
+                "width": 1040,
+                "height": 784
+            }
+        },
+        "openedWindows": []
+    }
+}

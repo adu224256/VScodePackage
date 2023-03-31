@@ -1,0 +1,9 @@
+2023-03-31 09:44:28.516 [info] WSL is not installed, so could not detect WSL profiles
+2023-03-31 09:45:04.987 [info] Getting Manifest... ms-ceintl.vscode-language-pack-zh-hant
+2023-03-31 09:45:04.996 [info] Installing extension: ms-ceintl.vscode-language-pack-zh-hant
+2023-03-31 09:45:07.446 [info] Extension signature is verified: ms-ceintl.vscode-language-pack-zh-hant
+2023-03-31 09:45:07.770 [info] Extracted extension to d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\.e48be133-5bbe-416f-ba7b-96a0ab0153bd: ms-ceintl.vscode-language-pack-zh-hant
+2023-03-31 09:45:07.791 [info] Renamed to d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\ms-ceintl.vscode-language-pack-zh-hant-1.77.2023032909
+2023-03-31 09:45:07.806 [info] Extracting extension completed. ms-ceintl.vscode-language-pack-zh-hant
+2023-03-31 09:45:07.823 [info] Adding language packs from the extension ms-ceintl.vscode-language-pack-zh-hant
+2023-03-31 09:45:07.982 [info] Extension installed successfully: ms-ceintl.vscode-language-pack-zh-hant

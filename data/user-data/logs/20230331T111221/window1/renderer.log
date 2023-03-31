@@ -1,0 +1,24 @@
+2023-03-31 11:12:22.977 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vscode.vscode-selfhost-test-provider' wants API proposal 'testContinuousRun' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2023-03-31 11:12:23.000 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vscode.remote-repositories' wants API proposal 'contribEditorGutterMenu' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2023-03-31 11:12:23.000 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'github.vscode-pull-request-github' wants API proposal 'contribEditorGutterMenu' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2023-03-31 11:12:23.001 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-toolsai.jupyter' wants API proposal 'notebookControllerKind' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2023-03-31 11:12:23.928 [warning] Settings pattern "application.*" doesn't match any settings
+2023-03-31 11:12:24.760 [error] Extension 'tabnine.tabnine-vscode' wants API proposal 'inlineCompletions' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2023-03-31 11:12:26.080 [warning] Settings pattern "application.*" doesn't match any settings
+2023-03-31 11:12:28.201 [warning] Settings pattern "application.*" doesn't match any settings
+2023-03-31 11:12:30.558 [warning] Settings pattern "application.*" doesn't match any settings
+2023-03-31 11:12:32.295 [info] [perf] Render performance baseline is 141ms
+2023-03-31 11:12:33.717 [error] [Extension Host] validating d:\Downloads\VSCode-win32-ia32-1.77.0\data\user-data\User\globalStorage\tabnine.tabnine-vscode\binaries\4.4.273\i686-pc-windows-gnu\TabNine.exe timeout
+2023-03-31 11:12:33.806 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-03-31 11:12:34.273 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-03-31 11:12:35.622 [error] Error: Decryption failed.
+2023-03-31 11:12:35.678 [error] SyntaxError: Unexpected token A in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at C.$getPassword (vscode-file://vscode-app/d:/Downloads/VSCode-win32-ia32-1.77.0/resources/app/out/vs/workbench/workbench.desktop.main.js:1586:49218)
+2023-03-31 11:12:45.155 [error] [Extension Host] (node:31168) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `Code --trace-deprecation ...` to show where the warning was created)
+2023-03-31 11:12:51.965 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vscode.vscode-selfhost-test-provider' wants API proposal 'testContinuousRun' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2023-03-31 11:12:51.966 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vscode.remote-repositories' wants API proposal 'contribEditorGutterMenu' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2023-03-31 11:12:51.967 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'github.vscode-pull-request-github' wants API proposal 'contribEditorGutterMenu' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2023-03-31 11:12:51.967 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-toolsai.jupyter' wants API proposal 'notebookControllerKind' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2023-03-31 11:12:52.502 [error] Extension 'tabnine.tabnine-vscode' wants API proposal 'inlineCompletions' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.

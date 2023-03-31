@@ -1,0 +1,130 @@
+2023-03-31 09:53:03.920 [info] WSL is not installed, so could not detect WSL profiles
+2023-03-31 09:53:29.748 [info] Deleted from disk bretdoyle.javascript-extensions-pack---js-essentials d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\bretdoyle.javascript-extensions-pack---js-essentials-0.0.2
+2023-03-31 09:53:29.755 [info] Deleted from disk tabnine.tabnine-vscode d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\tabnine.tabnine-vscode-3.6.43
+2023-03-31 09:53:29.821 [info] Deleted from disk graphql.vscode-graphql-syntax d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\graphql.vscode-graphql-syntax-1.1.0
+2023-03-31 09:53:30.316 [info] Deleted from disk dbaeumer.vscode-eslint d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\dbaeumer.vscode-eslint-2.4.0
+2023-03-31 09:53:30.684 [info] Deleted from disk wallabyjs.quokka-vscode d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\wallabyjs.quokka-vscode-1.0.529
+2023-03-31 09:53:47.841 [info] Getting Manifest... rvest.vs-code-prettier-eslint
+2023-03-31 09:53:47.854 [info] Installing extension: rvest.vs-code-prettier-eslint
+2023-03-31 09:53:50.514 [info] Extension signature is verified: rvest.vs-code-prettier-eslint
+2023-03-31 09:53:50.840 [info] Extracted extension to d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\.0250eba0-1e65-41dd-8d45-f5f4a2a6e153: rvest.vs-code-prettier-eslint
+2023-03-31 09:53:50.858 [info] Renamed to d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\rvest.vs-code-prettier-eslint-5.1.0
+2023-03-31 09:53:50.872 [info] Extracting extension completed. rvest.vs-code-prettier-eslint
+2023-03-31 09:53:50.892 [info] Extension installed successfully: rvest.vs-code-prettier-eslint
+2023-03-31 09:55:05.745 [info] Getting Manifest... visualstudioexptteam.vscodeintellicode
+2023-03-31 09:55:05.753 [info] Installing extension: visualstudioexptteam.vscodeintellicode
+2023-03-31 09:55:06.148 [info] Getting Manifest... visualstudioexptteam.intellicode-api-usage-examples
+2023-03-31 09:55:06.283 [info] Installing extension: visualstudioexptteam.intellicode-api-usage-examples visualstudioexptteam.vscodeintellicode
+2023-03-31 09:55:07.973 [info] Extension signature is verified: visualstudioexptteam.intellicode-api-usage-examples
+2023-03-31 09:55:08.447 [info] Extracted extension to d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\.d8890a20-e9a0-4b66-97a4-c0c8c55be8ef: visualstudioexptteam.intellicode-api-usage-examples
+2023-03-31 09:55:08.467 [info] Renamed to d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\visualstudioexptteam.intellicode-api-usage-examples-0.2.7
+2023-03-31 09:55:08.482 [info] Extracting extension completed. visualstudioexptteam.intellicode-api-usage-examples
+2023-03-31 09:55:10.859 [info] Extension signature is verified: visualstudioexptteam.vscodeintellicode
+2023-03-31 09:55:12.075 [info] Getting Manifest... dbaeumer.vscode-eslint
+2023-03-31 09:55:12.081 [info] Installing extension: dbaeumer.vscode-eslint
+2023-03-31 09:55:14.293 [info] Extension signature is verified: dbaeumer.vscode-eslint
+2023-03-31 09:55:14.393 [info] Extracted extension to d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\.04a392a7-de1a-4228-b82c-fe12b92c98dd: dbaeumer.vscode-eslint
+2023-03-31 09:55:14.416 [info] Renamed to d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\dbaeumer.vscode-eslint-2.4.0
+2023-03-31 09:55:14.430 [info] Extracting extension completed. dbaeumer.vscode-eslint
+2023-03-31 09:55:14.450 [info] Extension installed successfully: dbaeumer.vscode-eslint
+2023-03-31 09:55:15.786 [info] Getting Manifest... xabikos.javascriptsnippets
+2023-03-31 09:55:15.795 [info] Installing extension: xabikos.javascriptsnippets
+2023-03-31 09:55:16.515 [info] Extracted extension to d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\.d14ade69-1cdf-44f6-8108-f6b9b805d6b8: visualstudioexptteam.vscodeintellicode
+2023-03-31 09:55:16.536 [info] Renamed to d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\visualstudioexptteam.vscodeintellicode-1.2.30
+2023-03-31 09:55:16.555 [info] Extracting extension completed. visualstudioexptteam.vscodeintellicode
+2023-03-31 09:55:16.583 [info] Extension installed successfully: visualstudioexptteam.intellicode-api-usage-examples
+2023-03-31 09:55:16.583 [info] Extension installed successfully: visualstudioexptteam.vscodeintellicode
+2023-03-31 09:55:17.878 [info] Extension signature is verified: xabikos.javascriptsnippets
+2023-03-31 09:55:17.903 [info] Extracted extension to d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\.4b322889-de6e-44bd-8842-15a0f2533120: xabikos.javascriptsnippets
+2023-03-31 09:55:17.913 [info] Renamed to d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\xabikos.javascriptsnippets-1.8.0
+2023-03-31 09:55:17.926 [info] Extracting extension completed. xabikos.javascriptsnippets
+2023-03-31 09:55:17.942 [info] Extension installed successfully: xabikos.javascriptsnippets
+2023-03-31 09:55:20.994 [info] Getting Manifest... christian-kohler.path-intellisense
+2023-03-31 09:55:21.000 [info] Installing extension: christian-kohler.path-intellisense
+2023-03-31 09:55:22.942 [info] Extension signature is verified: christian-kohler.path-intellisense
+2023-03-31 09:55:23.130 [info] Extracted extension to d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\.db000542-6267-4225-aee9-04a3674d07c6: christian-kohler.path-intellisense
+2023-03-31 09:55:23.149 [info] Renamed to d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\christian-kohler.path-intellisense-2.8.4
+2023-03-31 09:55:23.163 [info] Extracting extension completed. christian-kohler.path-intellisense
+2023-03-31 09:55:23.212 [info] Extension installed successfully: christian-kohler.path-intellisense
+2023-03-31 09:55:26.454 [info] Getting Manifest... christian-kohler.npm-intellisense
+2023-03-31 09:55:26.466 [info] Installing extension: christian-kohler.npm-intellisense
+2023-03-31 09:55:28.351 [info] Extension signature is verified: christian-kohler.npm-intellisense
+2023-03-31 09:55:28.480 [info] Extracted extension to d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\.05ca8afa-2483-4842-8048-695c2cca0e73: christian-kohler.npm-intellisense
+2023-03-31 09:55:28.488 [info] Renamed to d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\christian-kohler.npm-intellisense-1.4.4
+2023-03-31 09:55:28.500 [info] Extracting extension completed. christian-kohler.npm-intellisense
+2023-03-31 09:55:28.514 [info] Extension installed successfully: christian-kohler.npm-intellisense
+2023-03-31 09:55:48.754 [info] Getting Manifest... tombonnike.vscode-status-bar-format-toggle
+2023-03-31 09:55:48.767 [info] Installing extension: tombonnike.vscode-status-bar-format-toggle
+2023-03-31 09:55:50.967 [info] Extension signature is verified: tombonnike.vscode-status-bar-format-toggle
+2023-03-31 09:55:51.017 [info] Extracted extension to d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\.c49e5a60-29ba-47bb-a382-0736dce2187d: tombonnike.vscode-status-bar-format-toggle
+2023-03-31 09:55:51.037 [info] Renamed to d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\tombonnike.vscode-status-bar-format-toggle-3.1.1
+2023-03-31 09:55:51.051 [info] Extracting extension completed. tombonnike.vscode-status-bar-format-toggle
+2023-03-31 09:55:51.069 [info] Extension installed successfully: tombonnike.vscode-status-bar-format-toggle
+2023-03-31 09:56:06.608 [info] Getting Manifest... esbenp.prettier-vscode
+2023-03-31 09:56:06.615 [info] Installing extension: esbenp.prettier-vscode
+2023-03-31 09:56:09.142 [info] Extension signature is verified: esbenp.prettier-vscode
+2023-03-31 09:56:09.474 [info] Extracted extension to d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\.22651224-38ad-45af-b896-5efc4a9f1e65: esbenp.prettier-vscode
+2023-03-31 09:56:09.494 [info] Renamed to d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\esbenp.prettier-vscode-9.10.4
+2023-03-31 09:56:09.527 [info] Extracting extension completed. esbenp.prettier-vscode
+2023-03-31 09:56:09.544 [info] Extension installed successfully: esbenp.prettier-vscode
+2023-03-31 09:56:12.722 [info] Getting Manifest... tabnine.tabnine-vscode
+2023-03-31 09:56:12.729 [info] Installing extension: tabnine.tabnine-vscode
+2023-03-31 09:56:14.720 [info] Extension signature is verified: tabnine.tabnine-vscode
+2023-03-31 09:56:14.784 [info] Extracted extension to d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\.d1181a6c-e69e-493d-9fcb-fcbbf8097f0c: tabnine.tabnine-vscode
+2023-03-31 09:56:14.801 [info] Renamed to d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\tabnine.tabnine-vscode-3.6.43
+2023-03-31 09:56:14.818 [info] Extracting extension completed. tabnine.tabnine-vscode
+2023-03-31 09:56:14.836 [info] Extension installed successfully: tabnine.tabnine-vscode
+2023-03-31 09:56:17.751 [info] Getting Manifest... wallabyjs.quokka-vscode
+2023-03-31 09:56:17.765 [info] Installing extension: wallabyjs.quokka-vscode
+2023-03-31 09:56:20.769 [info] Extension signature is verified: wallabyjs.quokka-vscode
+2023-03-31 09:56:26.738 [info] Getting Manifest... ritwickdey.liveserver
+2023-03-31 09:56:26.746 [info] Installing extension: ritwickdey.liveserver
+2023-03-31 09:56:29.518 [info] Extension signature is verified: ritwickdey.liveserver
+2023-03-31 09:56:30.970 [info] Extracted extension to d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\.55459afd-5f24-4beb-9015-def6647fead9: wallabyjs.quokka-vscode
+2023-03-31 09:56:31.010 [info] Renamed to d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\wallabyjs.quokka-vscode-1.0.529
+2023-03-31 09:56:31.030 [info] Extracting extension completed. wallabyjs.quokka-vscode
+2023-03-31 09:56:31.054 [info] Extension installed successfully: wallabyjs.quokka-vscode
+2023-03-31 09:56:42.503 [info] Extracted extension to d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\.28e396d4-bb15-4039-982d-839a90a30ae1: ritwickdey.liveserver
+2023-03-31 09:56:42.541 [info] Renamed to d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\ritwickdey.liveserver-5.7.9
+2023-03-31 09:56:42.708 [info] Extracting extension completed. ritwickdey.liveserver
+2023-03-31 09:56:42.847 [info] Extension installed successfully: ritwickdey.liveserver
+2023-03-31 09:57:26.978 [info] Getting Manifest... formulahendry.auto-rename-tag
+2023-03-31 09:57:26.984 [info] Installing extension: formulahendry.auto-rename-tag
+2023-03-31 09:57:28.064 [info] Getting Manifest... formulahendry.auto-close-tag
+2023-03-31 09:57:28.075 [info] Installing extension: formulahendry.auto-close-tag
+2023-03-31 09:57:28.918 [info] Extension signature is verified: formulahendry.auto-rename-tag
+2023-03-31 09:57:29.022 [info] Extracted extension to d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\.73b162a2-0638-435d-8e25-771dbb921e02: formulahendry.auto-rename-tag
+2023-03-31 09:57:29.043 [info] Renamed to d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\formulahendry.auto-rename-tag-0.1.10
+2023-03-31 09:57:29.057 [info] Extracting extension completed. formulahendry.auto-rename-tag
+2023-03-31 09:57:29.075 [info] Extension installed successfully: formulahendry.auto-rename-tag
+2023-03-31 09:57:30.206 [info] Extension signature is verified: formulahendry.auto-close-tag
+2023-03-31 09:57:30.275 [info] Extracted extension to d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\.efdf9d41-0c5f-4a24-9e5a-0cf4f61c6fe6: formulahendry.auto-close-tag
+2023-03-31 09:57:30.284 [info] Renamed to d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\formulahendry.auto-close-tag-0.5.14
+2023-03-31 09:57:30.297 [info] Extracting extension completed. formulahendry.auto-close-tag
+2023-03-31 09:57:30.315 [info] Extension installed successfully: formulahendry.auto-close-tag
+2023-03-31 09:57:31.598 [info] Getting Manifest... formulahendry.auto-complete-tag
+2023-03-31 09:57:31.613 [info] Installing extension: formulahendry.auto-complete-tag
+2023-03-31 09:57:31.974 [info] Getting Manifest... formulahendry.auto-rename-tag
+2023-03-31 09:57:31.979 [info] Getting Manifest... formulahendry.auto-close-tag
+2023-03-31 09:57:33.707 [info] Extension signature is verified: formulahendry.auto-complete-tag
+2023-03-31 09:57:33.733 [info] Extracted extension to d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\.5578e627-d703-4b8c-8e25-d32fee9a1216: formulahendry.auto-complete-tag
+2023-03-31 09:57:33.753 [info] Renamed to d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\formulahendry.auto-complete-tag-0.1.0
+2023-03-31 09:57:33.767 [info] Extracting extension completed. formulahendry.auto-complete-tag
+2023-03-31 09:57:33.801 [info] Extension installed successfully: formulahendry.auto-complete-tag
+2023-03-31 10:01:43.444 [info] Getting Manifest... hookyqr.beautify
+2023-03-31 10:01:43.461 [info] Installing extension: hookyqr.beautify
+2023-03-31 10:01:45.774 [info] Extension signature is verified: hookyqr.beautify
+2023-03-31 10:01:46.401 [info] Extracted extension to d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\.1d09a44e-a4ec-4836-bfa7-e33be4c959b0: hookyqr.beautify
+2023-03-31 10:01:46.423 [info] Renamed to d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\hookyqr.beautify-1.5.0
+2023-03-31 10:01:46.438 [info] Extracting extension completed. hookyqr.beautify
+2023-03-31 10:01:46.458 [info] Extension installed successfully: hookyqr.beautify
+2023-03-31 10:01:59.323 [info] Uninstalling extension from the profile: hookyqr.beautify@1.5.0 vscode-userdata:/d%3A/Downloads/VSCode-win32-ia32-1.77.0/data/extensions/extensions.json
+2023-03-31 10:01:59.369 [info] Marked extension as uninstalled hookyqr.beautify-1.5.0
+2023-03-31 10:01:59.631 [info] Successfully uninstalled extension from the profile hookyqr.beautify@1.5.0 vscode-userdata:/d%3A/Downloads/VSCode-win32-ia32-1.77.0/data/extensions/extensions.json
+2023-03-31 10:03:13.547 [info] Getting Manifest... vscode-icons-team.vscode-icons
+2023-03-31 10:03:13.554 [info] Installing extension: vscode-icons-team.vscode-icons
+2023-03-31 10:03:16.230 [info] Extension signature is verified: vscode-icons-team.vscode-icons
+2023-03-31 10:03:19.129 [info] Extracted extension to d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\.fbc57c3f-fcc0-48e5-9902-a03658541923: vscode-icons-team.vscode-icons
+2023-03-31 10:03:19.155 [info] Renamed to d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\vscode-icons-team.vscode-icons-12.2.0
+2023-03-31 10:03:19.178 [info] Extracting extension completed. vscode-icons-team.vscode-icons
+2023-03-31 10:03:19.204 [info] Extension installed successfully: vscode-icons-team.vscode-icons

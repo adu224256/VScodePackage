@@ -1,0 +1,316 @@
+2023-03-31 11:12:25.960 [info] Extension host with pid 31168 started
+2023-03-31 11:12:25.961 [info] Skipping acquiring lock for d:\Downloads\VSCode-win32-ia32-1.77.0\data\user-data\User\workspaceStorage\5c880ebe3d7803ab72010886199e62d5.
+2023-03-31 11:12:27.262 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-03-31 11:12:27.265 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2023-03-31 11:12:27.558 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-03-31 11:12:27.560 [info] ExtensionService#_doActivateExtension christian-kohler.path-intellisense, startup: true, activationEvent: '*'
+2023-03-31 11:12:27.680 [info] ExtensionService#_doActivateExtension formulahendry.auto-close-tag, startup: true, activationEvent: '*'
+2023-03-31 11:12:27.689 [info] ExtensionService#_doActivateExtension formulahendry.auto-rename-tag, startup: true, activationEvent: '*'
+2023-03-31 11:12:27.785 [info] ExtensionService#_doActivateExtension TabNine.tabnine-vscode, startup: true, activationEvent: '*'
+2023-03-31 11:12:28.158 [info] ExtensionService#_doActivateExtension tombonnike.vscode-status-bar-format-toggle, startup: true, activationEvent: '*'
+2023-03-31 11:12:28.204 [info] ExtensionService#_doActivateExtension WallabyJs.quokka-vscode, startup: true, activationEvent: '*'
+2023-03-31 11:12:34.701 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2023-03-31 11:12:34.703 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2023-03-31 11:12:34.704 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2023-03-31 11:12:34.704 [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint, startup: false, activationEvent: 'onLanguage:jsonc'
+2023-03-31 11:12:34.773 [info] ExtensionService#_doActivateExtension rvest.vs-code-prettier-eslint, startup: false, activationEvent: 'onLanguage:jsonc'
+2023-03-31 11:12:35.111 [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+2023-03-31 11:12:35.113 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-03-31 11:12:35.114 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-03-31 11:12:35.858 [info] Eager extensions activated
+2023-03-31 11:12:35.940 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-03-31 11:12:35.941 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-03-31 11:12:35.942 [info] ExtensionService#_doActivateExtension ms-vscode-remote.remote-wsl-recommender, startup: false, activationEvent: 'onStartupFinished'
+2023-03-31 11:12:35.943 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onStartupFinished', root cause: esbenp.prettier-vscode
+2023-03-31 11:12:35.944 [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+2023-03-31 11:12:36.026 [info] ExtensionService#_doActivateExtension vscode-icons-team.vscode-icons, startup: false, activationEvent: 'onStartupFinished'
+2023-03-31 11:12:36.175 [error] No bundle location found for extension ms-vscode-remote.remote-wsl-recommender
+2023-03-31 11:12:37.395 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2023-03-31 11:12:50.867 [info] Extension host terminating: renderer closed the MessagePort
+2023-03-31 11:12:50.919 [error] Canceled: Canceled
+    at new l (d:\Downloads\VSCode-win32-ia32-1.77.0\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:98:105190)
+    at c.O (d:\Downloads\VSCode-win32-ia32-1.77.0\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:108:11692)
+    at Proxy.G.<computed>.Q.charCodeAt.G.<computed> (d:\Downloads\VSCode-win32-ia32-1.77.0\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:108:8967)
+    at m.g (d:\Downloads\VSCode-win32-ia32-1.77.0\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:98:125211)
+    at m.executeCommand (d:\Downloads\VSCode-win32-ia32-1.77.0\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:98:124587)
+    at L.registerCommand.description (d:\Downloads\VSCode-win32-ia32-1.77.0\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:98:123880)
+    at m.h (d:\Downloads\VSCode-win32-ia32-1.77.0\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:98:125797)
+    at m.g (d:\Downloads\VSCode-win32-ia32-1.77.0\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:98:124687)
+    at m.executeCommand (d:\Downloads\VSCode-win32-ia32-1.77.0\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:98:124587)
+    at Object.executeCommand (d:\Downloads\VSCode-win32-ia32-1.77.0\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:114:23801)
+    at Object.dispose (d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\wallabyjs.quokka-vscode-1.0.529\dist\index.js:6:72826)
+    at d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\wallabyjs.quokka-vscode-1.0.529\dist\index.js:6:13435
+    at Array.forEach (<anonymous>)
+    at t.exports.dispose (d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\wallabyjs.quokka-vscode-1.0.529\dist\index.js:6:13422)
+    at P.deactivate (d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\wallabyjs.quokka-vscode-1.0.529\dist\index.js:6:74093)
+    at Object.dispose (d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\wallabyjs.quokka-vscode-1.0.529\dist\index.js:6:1096)
+    at d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\wallabyjs.quokka-vscode-1.0.529\dist\index.js:6:13435
+    at Array.forEach (<anonymous>)
+    at t.exports.dispose (d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\wallabyjs.quokka-vscode-1.0.529\dist\index.js:6:13422)
+    at h.deactivate (d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\wallabyjs.quokka-vscode-1.0.529\dist\index.js:6:3331)
+    at Object.dispose (d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\wallabyjs.quokka-vscode-1.0.529\dist\index.js:6:3406)
+    at C (d:\Downloads\VSCode-win32-ia32-1.77.0\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:10:12084)
+    at E.Y (d:\Downloads\VSCode-win32-ia32-1.77.0\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:110:11147)
+    at d:\Downloads\VSCode-win32-ia32-1.77.0\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:110:9131
+    at Array.map (<anonymous>)
+    at E.R (d:\Downloads\VSCode-win32-ia32-1.77.0\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:110:9118)
+    at E.terminate (d:\Downloads\VSCode-win32-ia32-1.77.0\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:110:9389)
+    at d.terminate (d:\Downloads\VSCode-win32-ia32-1.77.0\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:114:1544)
+    at p (d:\Downloads\VSCode-win32-ia32-1.77.0\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:124:18690)
+    at MessagePortMain.<anonymous> (d:\Downloads\VSCode-win32-ia32-1.77.0\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:124:14829)
+    at MessagePortMain.emit (node:events:526:28)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:5:364) setContext undefined
+2023-03-31 11:12:52.290 [info] Extension host with pid 31168 exiting with code 0
+2023-03-31 11:12:53.817 [info] Extension host with pid 14504 started
+2023-03-31 11:12:53.907 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-03-31 11:12:53.910 [info] ExtensionService#_doActivateExtension christian-kohler.path-intellisense, startup: true, activationEvent: '*'
+2023-03-31 11:12:54.065 [info] ExtensionService#_doActivateExtension formulahendry.auto-close-tag, startup: true, activationEvent: '*'
+2023-03-31 11:12:54.078 [info] ExtensionService#_doActivateExtension formulahendry.auto-rename-tag, startup: true, activationEvent: '*'
+2023-03-31 11:12:54.184 [info] ExtensionService#_doActivateExtension TabNine.tabnine-vscode, startup: true, activationEvent: '*'
+2023-03-31 11:12:54.756 [info] ExtensionService#_doActivateExtension tombonnike.vscode-status-bar-format-toggle, startup: true, activationEvent: '*'
+2023-03-31 11:12:54.931 [info] ExtensionService#_doActivateExtension WallabyJs.quokka-vscode, startup: true, activationEvent: '*'
+2023-03-31 11:12:56.995 [info] Extension host terminating: parent process 33252 does not exist anymore: kill ESRCH (code: ESRCH) (errno: -4040)
+2023-03-31 11:12:57.007 [error] Failed to load translations for vscode.git-base from file:///d%3A/Downloads/VSCode-win32-ia32-1.77.0/data/extensions/ms-ceintl.vscode-language-pack-zh-hant-1.77.2023032909/translations/extensions/vscode.git-base.i18n.json: Canceled
+2023-03-31 11:12:57.010 [error] ProxyResolver#resolveProxy undefined Canceled: Canceled
+    at Object.k [as canceled] (d:\Downloads\VSCode-win32-ia32-1.77.0\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:7:1192)
+    at d:\Downloads\VSCode-win32-ia32-1.77.0\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:108:8301
+    at Array.forEach (<anonymous>)
+    at c.dispose (d:\Downloads\VSCode-win32-ia32-1.77.0\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:108:8266)
+    at E.terminate (d:\Downloads\VSCode-win32-ia32-1.77.0\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:110:9366)
+    at d.terminate (d:\Downloads\VSCode-win32-ia32-1.77.0\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:114:1544)
+    at p (d:\Downloads\VSCode-win32-ia32-1.77.0\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:124:18690)
+    at Timeout._onTimeout (d:\Downloads\VSCode-win32-ia32-1.77.0\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:124:17135)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7) 
+2023-03-31 11:12:57.046 [error] Canceled: Canceled
+    at Object.k [as canceled] (d:\Downloads\VSCode-win32-ia32-1.77.0\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:7:1192)
+    at d:\Downloads\VSCode-win32-ia32-1.77.0\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:108:8301
+    at Array.forEach (<anonymous>)
+    at c.dispose (d:\Downloads\VSCode-win32-ia32-1.77.0\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:108:8266)
+    at E.terminate (d:\Downloads\VSCode-win32-ia32-1.77.0\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:110:9366)
+    at d.terminate (d:\Downloads\VSCode-win32-ia32-1.77.0\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:114:1544)
+    at p (d:\Downloads\VSCode-win32-ia32-1.77.0\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:124:18690)
+    at Timeout._onTimeout (d:\Downloads\VSCode-win32-ia32-1.77.0\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:124:17135)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7) setContext undefined
+2023-03-31 11:12:57.047 [error] Canceled: Canceled
+    at Object.k [as canceled] (d:\Downloads\VSCode-win32-ia32-1.77.0\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:7:1192)
+    at d:\Downloads\VSCode-win32-ia32-1.77.0\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:108:8301
+    at Array.forEach (<anonymous>)
+    at c.dispose (d:\Downloads\VSCode-win32-ia32-1.77.0\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:108:8266)
+    at E.terminate (d:\Downloads\VSCode-win32-ia32-1.77.0\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:110:9366)
+    at d.terminate (d:\Downloads\VSCode-win32-ia32-1.77.0\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:114:1544)
+    at p (d:\Downloads\VSCode-win32-ia32-1.77.0\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:124:18690)
+    at Timeout._onTimeout (d:\Downloads\VSCode-win32-ia32-1.77.0\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:124:17135)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7) setContext undefined
+2023-03-31 11:12:57.050 [error] Canceled: Canceled
+    at Object.k [as canceled] (d:\Downloads\VSCode-win32-ia32-1.77.0\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:7:1192)
+    at d:\Downloads\VSCode-win32-ia32-1.77.0\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:108:8301
+    at Array.forEach (<anonymous>)
+    at c.dispose (d:\Downloads\VSCode-win32-ia32-1.77.0\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:108:8266)
+    at E.terminate (d:\Downloads\VSCode-win32-ia32-1.77.0\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:110:9366)
+    at d.terminate (d:\Downloads\VSCode-win32-ia32-1.77.0\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:114:1544)
+    at p (d:\Downloads\VSCode-win32-ia32-1.77.0\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:124:18690)
+    at Timeout._onTimeout (d:\Downloads\VSCode-win32-ia32-1.77.0\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:124:17135)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7) setContext undefined
+2023-03-31 11:12:57.053 [error] Canceled: Canceled
+    at Object.k [as canceled] (d:\Downloads\VSCode-win32-ia32-1.77.0\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:7:1192)
+    at d:\Downloads\VSCode-win32-ia32-1.77.0\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:108:8301
+    at Array.forEach (<anonymous>)
+    at c.dispose (d:\Downloads\VSCode-win32-ia32-1.77.0\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:108:8266)
+    at E.terminate (d:\Downloads\VSCode-win32-ia32-1.77.0\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:110:9366)
+    at d.terminate (d:\Downloads\VSCode-win32-ia32-1.77.0\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:114:1544)
+    at p (d:\Downloads\VSCode-win32-ia32-1.77.0\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:124:18690)
+    at Timeout._onTimeout (d:\Downloads\VSCode-win32-ia32-1.77.0\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:124:17135)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7) setContext undefined
+2023-03-31 11:12:57.054 [error] Canceled: Canceled
+    at Object.k [as canceled] (d:\Downloads\VSCode-win32-ia32-1.77.0\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:7:1192)
+    at d:\Downloads\VSCode-win32-ia32-1.77.0\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:108:8301
+    at Array.forEach (<anonymous>)
+    at c.dispose (d:\Downloads\VSCode-win32-ia32-1.77.0\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:108:8266)
+    at E.terminate (d:\Downloads\VSCode-win32-ia32-1.77.0\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:110:9366)
+    at d.terminate (d:\Downloads\VSCode-win32-ia32-1.77.0\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:114:1544)
+    at p (d:\Downloads\VSCode-win32-ia32-1.77.0\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:124:18690)
+    at Timeout._onTimeout (d:\Downloads\VSCode-win32-ia32-1.77.0\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:124:17135)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7) setContext undefined
+2023-03-31 11:12:57.135 [error] Canceled: Canceled
+    at new l (d:\Downloads\VSCode-win32-ia32-1.77.0\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:98:105190)
+    at c.O (d:\Downloads\VSCode-win32-ia32-1.77.0\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:108:11692)
+    at Proxy.G.<computed>.Q.charCodeAt.G.<computed> (d:\Downloads\VSCode-win32-ia32-1.77.0\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:108:8967)
+    at m.g (d:\Downloads\VSCode-win32-ia32-1.77.0\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:98:125211)
+    at m.executeCommand (d:\Downloads\VSCode-win32-ia32-1.77.0\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:98:124587)
+    at L.registerCommand.description (d:\Downloads\VSCode-win32-ia32-1.77.0\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:98:123880)
+    at m.h (d:\Downloads\VSCode-win32-ia32-1.77.0\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:98:125797)
+    at m.g (d:\Downloads\VSCode-win32-ia32-1.77.0\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:98:124687)
+    at m.executeCommand (d:\Downloads\VSCode-win32-ia32-1.77.0\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:98:124587)
+    at Object.executeCommand (d:\Downloads\VSCode-win32-ia32-1.77.0\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:114:23801)
+    at Object.dispose (d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\wallabyjs.quokka-vscode-1.0.529\dist\index.js:6:72826)
+    at d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\wallabyjs.quokka-vscode-1.0.529\dist\index.js:6:13435
+    at Array.forEach (<anonymous>)
+    at t.exports.dispose (d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\wallabyjs.quokka-vscode-1.0.529\dist\index.js:6:13422)
+    at P.deactivate (d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\wallabyjs.quokka-vscode-1.0.529\dist\index.js:6:74093)
+    at Object.dispose (d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\wallabyjs.quokka-vscode-1.0.529\dist\index.js:6:1096)
+    at d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\wallabyjs.quokka-vscode-1.0.529\dist\index.js:6:13435
+    at Array.forEach (<anonymous>)
+    at t.exports.dispose (d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\wallabyjs.quokka-vscode-1.0.529\dist\index.js:6:13422)
+    at h.deactivate (d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\wallabyjs.quokka-vscode-1.0.529\dist\index.js:6:3331)
+    at Object.dispose (d:\Downloads\VSCode-win32-ia32-1.77.0\data\extensions\wallabyjs.quokka-vscode-1.0.529\dist\index.js:6:3406)
+    at C (d:\Downloads\VSCode-win32-ia32-1.77.0\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:10:12084)
+    at E.Y (d:\Downloads\VSCode-win32-ia32-1.77.0\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:110:11147)
+    at d:\Downloads\VSCode-win32-ia32-1.77.0\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:110:9131
+    at Array.map (<anonymous>)
+    at E.R (d:\Downloads\VSCode-win32-ia32-1.77.0\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:110:9118)
+    at E.terminate (d:\Downloads\VSCode-win32-ia32-1.77.0\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:110:9389)
+    at d.terminate (d:\Downloads\VSCode-win32-ia32-1.77.0\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:114:1544)
+    at p (d:\Downloads\VSCode-win32-ia32-1.77.0\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:124:18690)
+    at Timeout._onTimeout (d:\Downloads\VSCode-win32-ia32-1.77.0\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:124:17135)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7) setContext undefined
+2023-03-31 11:12:57.158 [info] Eager extensions activated
+2023-03-31 11:12:57.162 [error] Activating extension vscode.debug-auto-launch failed due to an error:
+2023-03-31 11:12:57.162 [error] Canceled: Canceled
+    at new l (d:\Downloads\VSCode-win32-ia32-1.77.0\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:98:105190)
+    at c.O (d:\Downloads\VSCode-win32-ia32-1.77.0\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:108:11692)
+    at Proxy.G.<computed>.Q.charCodeAt.G.<computed> (d:\Downloads\VSCode-win32-ia32-1.77.0\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:108:8967)
+    at E.Z (d:\Downloads\VSCode-win32-ia32-1.77.0\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:110:11401)
+    at Object.actualActivateExtension (d:\Downloads\VSCode-win32-ia32-1.77.0\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:110:8634)
+    at E.n (d:\Downloads\VSCode-win32-ia32-1.77.0\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:96:6659)
+    at E.m (d:\Downloads\VSCode-win32-ia32-1.77.0\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:96:6620)
+    at E.l (d:\Downloads\VSCode-win32-ia32-1.77.0\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:96:6077)
+    at new E (d:\Downloads\VSCode-win32-ia32-1.77.0\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:96:6004)
+    at I.k (d:\Downloads\VSCode-win32-ia32-1.77.0\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:96:5513)
+    at I.j (d:\Downloads\VSCode-win32-ia32-1.77.0\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:96:5468)
+    at d:\Downloads\VSCode-win32-ia32-1.77.0\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:96:4389
+    at Array.map (<anonymous>)
+    at I.h (d:\Downloads\VSCode-win32-ia32-1.77.0\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:96:4377)
+    at I.activateById (d:\Downloads\VSCode-win32-ia32-1.77.0\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:96:4289)
+    at E.U (d:\Downloads\VSCode-win32-ia32-1.77.0\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:110:9944)
+    at E.fb (d:\Downloads\VSCode-win32-ia32-1.77.0\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:110:14886)
+    at d:\Downloads\VSCode-win32-ia32-1.77.0\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:110:15570
+2023-03-31 11:12:57.164 [error] Activating extension vscode.merge-conflict failed due to an error:
+2023-03-31 11:12:57.165 [error] Canceled: Canceled
+    at new l (d:\Downloads\VSCode-win32-ia32-1.77.0\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:98:105190)
+    at c.O (d:\Downloads\VSCode-win32-ia32-1.77.0\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:108:11692)
+    at Proxy.G.<computed>.Q.charCodeAt.G.<computed> (d:\Downloads\VSCode-win32-ia32-1.77.0\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:108:8967)
+    at E.Z (d:\Downloads\VSCode-win32-ia32-1.77.0\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:110:11401)
+    at Object.actualActivateExtension (d:\Downloads\VSCode-win32-ia32-1.77.0\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:110:8634)
+    at E.n (d:\Downloads\VSCode-win32-ia32-1.77.0\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:96:6659)
+    at E.m (d:\Downloads\VSCode-win32-ia32-1.77.0\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:96:6620)
+    at E.l (d:\Downloads\VSCode-win32-ia32-1.77.0\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:96:6077)
+    at new E (d:\Downloads\VSCode-win32-ia32-1.77.0\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:96:6004)
+    at I.k (d:\Downloads\VSCode-win32-ia32-1.77.0\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:96:5513)
+    at I.j (d:\Downloads\VSCode-win32-ia32-1.77.0\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:96:5468)
+    at d:\Downloads\VSCode-win32-ia32-1.77.0\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:96:4389
+    at Array.map (<anonymous>)
+    at I.h (d:\Downloads\VSCode-win32-ia32-1.77.0\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:96:4377)
+    at I.activateById (d:\Downloads\VSCode-win32-ia32-1.77.0\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:96:4289)
+    at E.U (d:\Downloads\VSCode-win32-ia32-1.77.0\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:110:9944)
+    at E.fb (d:\Downloads\VSCode-win32-ia32-1.77.0\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:110:14886)
+    at d:\Downloads\VSCode-win32-ia32-1.77.0\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:110:15570
+2023-03-31 11:12:57.166 [error] Activating extension ms-vscode-remote.remote-wsl-recommender failed due to an error:
+2023-03-31 11:12:57.167 [error] Canceled: Canceled
+    at new l (d:\Downloads\VSCode-win32-ia32-1.77.0\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:98:105190)
+    at c.O (d:\Downloads\VSCode-win32-ia32-1.77.0\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:108:11692)
+    at Proxy.G.<computed>.Q.charCodeAt.G.<computed> (d:\Downloads\VSCode-win32-ia32-1.77.0\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:108:8967)
+    at E.Z (d:\Downloads\VSCode-win32-ia32-1.77.0\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:110:11401)
+    at Object.actualActivateExtension (d:\Downloads\VSCode-win32-ia32-1.77.0\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:110:8634)
+    at E.n (d:\Downloads\VSCode-win32-ia32-1.77.0\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:96:6659)
+    at E.m (d:\Downloads\VSCode-win32-ia32-1.77.0\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:96:6620)
+    at E.l (d:\Downloads\VSCode-win32-ia32-1.77.0\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:96:6077)
+    at new E (d:\Downloads\VSCode-win32-ia32-1.77.0\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:96:6004)
+    at I.k (d:\Downloads\VSCode-win32-ia32-1.77.0\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:96:5513)
+    at I.j (d:\Downloads\VSCode-win32-ia32-1.77.0\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:96:5468)
+    at d:\Downloads\VSCode-win32-ia32-1.77.0\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:96:4389
+    at Array.map (<anonymous>)
+    at I.h (d:\Downloads\VSCode-win32-ia32-1.77.0\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:96:4377)
+    at I.activateById (d:\Downloads\VSCode-win32-ia32-1.77.0\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:96:4289)
+    at E.U (d:\Downloads\VSCode-win32-ia32-1.77.0\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:110:9944)
+    at E.fb (d:\Downloads\VSCode-win32-ia32-1.77.0\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:110:14886)
+    at d:\Downloads\VSCode-win32-ia32-1.77.0\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:110:15570
+2023-03-31 11:12:57.168 [error] Activating extension vscode.npm failed due to an error:
+2023-03-31 11:12:57.169 [error] Canceled: Canceled
+    at new l (d:\Downloads\VSCode-win32-ia32-1.77.0\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:98:105190)
+    at c.O (d:\Downloads\VSCode-win32-ia32-1.77.0\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:108:11692)
+    at Proxy.G.<computed>.Q.charCodeAt.G.<computed> (d:\Downloads\VSCode-win32-ia32-1.77.0\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:108:8967)
+    at E.Z (d:\Downloads\VSCode-win32-ia32-1.77.0\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:110:11401)
+    at Object.actualActivateExtension (d:\Downloads\VSCode-win32-ia32-1.77.0\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:110:8634)
+    at E.n (d:\Downloads\VSCode-win32-ia32-1.77.0\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:96:6659)
+    at E.m (d:\Downloads\VSCode-win32-ia32-1.77.0\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:96:6620)
+    at E.l (d:\Downloads\VSCode-win32-ia32-1.77.0\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:96:6077)
+    at new E (d:\Downloads\VSCode-win32-ia32-1.77.0\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:96:6004)
+    at I.k (d:\Downloads\VSCode-win32-ia32-1.77.0\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:96:5513)
+    at I.j (d:\Downloads\VSCode-win32-ia32-1.77.0\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:96:5468)
+    at I.j (d:\Downloads\VSCode-win32-ia32-1.77.0\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:96:5135)
+    at d:\Downloads\VSCode-win32-ia32-1.77.0\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:96:4389
+    at Array.map (<anonymous>)
+    at I.h (d:\Downloads\VSCode-win32-ia32-1.77.0\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:96:4377)
+    at I.activateById (d:\Downloads\VSCode-win32-ia32-1.77.0\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:96:4289)
+    at E.U (d:\Downloads\VSCode-win32-ia32-1.77.0\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:110:9944)
+    at E.fb (d:\Downloads\VSCode-win32-ia32-1.77.0\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:110:14886)
+    at d:\Downloads\VSCode-win32-ia32-1.77.0\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:110:15570
+2023-03-31 11:12:57.171 [error] Activating extension ritwickdey.LiveServer failed due to an error:
+2023-03-31 11:12:57.171 [error] Canceled: Canceled
+    at new l (d:\Downloads\VSCode-win32-ia32-1.77.0\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:98:105190)
+    at c.O (d:\Downloads\VSCode-win32-ia32-1.77.0\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:108:11692)
+    at Proxy.G.<computed>.Q.charCodeAt.G.<computed> (d:\Downloads\VSCode-win32-ia32-1.77.0\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:108:8967)
+    at E.Z (d:\Downloads\VSCode-win32-ia32-1.77.0\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:110:11401)
+    at Object.actualActivateExtension (d:\Downloads\VSCode-win32-ia32-1.77.0\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:110:8634)
+    at E.n (d:\Downloads\VSCode-win32-ia32-1.77.0\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:96:6659)
+    at E.m (d:\Downloads\VSCode-win32-ia32-1.77.0\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:96:6620)
+    at E.l (d:\Downloads\VSCode-win32-ia32-1.77.0\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:96:6077)
+    at new E (d:\Downloads\VSCode-win32-ia32-1.77.0\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:96:6004)
+    at I.k (d:\Downloads\VSCode-win32-ia32-1.77.0\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:96:5513)
+    at I.j (d:\Downloads\VSCode-win32-ia32-1.77.0\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:96:5468)
+    at d:\Downloads\VSCode-win32-ia32-1.77.0\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:96:4389
+    at Array.map (<anonymous>)
+    at I.h (d:\Downloads\VSCode-win32-ia32-1.77.0\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:96:4377)
+    at I.activateById (d:\Downloads\VSCode-win32-ia32-1.77.0\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:96:4289)
+    at E.U (d:\Downloads\VSCode-win32-ia32-1.77.0\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:110:9944)
+    at E.fb (d:\Downloads\VSCode-win32-ia32-1.77.0\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:110:14886)
+    at d:\Downloads\VSCode-win32-ia32-1.77.0\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:110:15570
+2023-03-31 11:12:57.173 [error] Activating extension vscode-icons-team.vscode-icons failed due to an error:
+2023-03-31 11:12:57.173 [error] Canceled: Canceled
+    at new l (d:\Downloads\VSCode-win32-ia32-1.77.0\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:98:105190)
+    at c.O (d:\Downloads\VSCode-win32-ia32-1.77.0\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:108:11692)
+    at Proxy.G.<computed>.Q.charCodeAt.G.<computed> (d:\Downloads\VSCode-win32-ia32-1.77.0\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:108:8967)
+    at E.Z (d:\Downloads\VSCode-win32-ia32-1.77.0\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:110:11401)
+    at Object.actualActivateExtension (d:\Downloads\VSCode-win32-ia32-1.77.0\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:110:8634)
+    at E.n (d:\Downloads\VSCode-win32-ia32-1.77.0\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:96:6659)
+    at E.m (d:\Downloads\VSCode-win32-ia32-1.77.0\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:96:6620)
+    at E.l (d:\Downloads\VSCode-win32-ia32-1.77.0\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:96:6077)
+    at new E (d:\Downloads\VSCode-win32-ia32-1.77.0\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:96:6004)
+    at I.k (d:\Downloads\VSCode-win32-ia32-1.77.0\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:96:5513)
+    at I.j (d:\Downloads\VSCode-win32-ia32-1.77.0\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:96:5468)
+    at d:\Downloads\VSCode-win32-ia32-1.77.0\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:96:4389
+    at Array.map (<anonymous>)
+    at I.h (d:\Downloads\VSCode-win32-ia32-1.77.0\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:96:4377)
+    at I.activateById (d:\Downloads\VSCode-win32-ia32-1.77.0\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:96:4289)
+    at E.U (d:\Downloads\VSCode-win32-ia32-1.77.0\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:110:9944)
+    at E.fb (d:\Downloads\VSCode-win32-ia32-1.77.0\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:110:14886)
+    at d:\Downloads\VSCode-win32-ia32-1.77.0\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:110:15570
+2023-03-31 11:13:00.961 [info] Extension host with pid 14504 exiting with code 0
+2023-03-31 11:13:00.962 [error] Canceled (FileSystemError): Canceled
+    at Function.c (d:\Downloads\VSCode-win32-ia32-1.77.0\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:100:27162)
+    at Object.createDirectory (d:\Downloads\VSCode-win32-ia32-1.77.0\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:100:25530)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at runNextTicks (node:internal/process/task_queues:65:3)
+    at listOnTimeout (node:internal/timers:528:9)
+    at processTimers (node:internal/timers:502:7)
+2023-03-31 11:13:00.962 [error] Canceled (FileSystemError): Canceled
+    at Function.c (d:\Downloads\VSCode-win32-ia32-1.77.0\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:100:27162)
+    at Object.createDirectory (d:\Downloads\VSCode-win32-ia32-1.77.0\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:100:25530)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at runNextTicks (node:internal/process/task_queues:65:3)
+    at listOnTimeout (node:internal/timers:528:9)
+    at processTimers (node:internal/timers:502:7)
+2023-03-31 11:13:00.963 [error] Canceled (FileSystemError): Canceled
+    at Function.c (d:\Downloads\VSCode-win32-ia32-1.77.0\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:100:27162)
+    at Object.createDirectory (d:\Downloads\VSCode-win32-ia32-1.77.0\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:100:25530)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at runNextTicks (node:internal/process/task_queues:65:3)
+    at listOnTimeout (node:internal/timers:528:9)
+    at processTimers (node:internal/timers:502:7)

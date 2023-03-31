@@ -1,0 +1,17 @@
+2023-03-31 11:12:35.745 [info] 記錄層級: Info
+2023-03-31 11:12:35.746 [info] 正在驗證在下列位置找到的 Git: "C:\Program Files\Git\cmd\git.exe"
+2023-03-31 11:12:35.837 [info] 正在使用來自 "2.35.1.windows.2" 的 Git "C:\Program Files\Git\cmd\git.exe"
+2023-03-31 11:12:36.401 [info] > git rev-parse --show-toplevel [541ms]
+2023-03-31 11:12:36.401 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-03-31 11:12:36.552 [info] > git rev-parse --show-toplevel [141ms]
+2023-03-31 11:12:36.552 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-03-31 11:12:36.808 [info] > git rev-parse --show-toplevel [246ms]
+2023-03-31 11:12:36.808 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-03-31 11:12:36.940 [info] > git rev-parse --show-toplevel [122ms]
+2023-03-31 11:12:36.940 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-03-31 11:12:37.081 [info] > git rev-parse --show-toplevel [130ms]
+2023-03-31 11:12:37.082 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-03-31 11:12:37.196 [info] > git rev-parse --show-toplevel [106ms]
+2023-03-31 11:12:37.196 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-03-31 11:12:37.312 [info] > git rev-parse --show-toplevel [106ms]
+2023-03-31 11:12:37.312 [info] fatal: not a git repository (or any of the parent directories): .git
